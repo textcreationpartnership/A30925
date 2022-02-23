@@ -1,0 +1,652 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faithful and wise servant discovered in a sermon preached to the Parliament of the commonwealth of England, Scotland, and Ireland, at their late private fast in the Parliament House, Jan. 9, 1656 / by Matthew Barker ...</title>
+            <author>Barker, Matthew, 1619-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30925</idno>
+            <idno type="STC">Wing B773</idno>
+            <idno type="STC">ESTC R20191</idno>
+            <idno type="EEBO-CITATION">12609465</idno>
+            <idno type="OCLC">ocm 12609465</idno>
+            <idno type="VID">64311</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64311)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 342:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faithful and wise servant discovered in a sermon preached to the Parliament of the commonwealth of England, Scotland, and Ireland, at their late private fast in the Parliament House, Jan. 9, 1656 / by Matthew Barker ...</title>
+                  <author>Barker, Matthew, 1619-1698.</author>
+               </titleStmt>
+               <extent>[9], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Macock for Luke Fawn, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms II, 10 --  Sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64311:1" rendition="simple:additions"/>
+            <pb facs="tcp:64311:1"/>
+            <p>THE FAITHFUL And Wiſe Servant.</p>
+            <p>Diſcovered in a Sermon preached to the Parliament of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> at their late private Faſt in the Parliament Houſe, <hi>Jan.</hi> 9. 1656.</p>
+            <p>By <hi>Matthew Barker,</hi> a Servant of Chriſt, and his Church in the work of the Miniſtry, at <hi>Leonards Eaſtcheap, London.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>And his Lord ſaid unto him, Well done thou good and faithful ſervant.</hi>
+               </p>
+               <bibl>Matth. 25. 21.</bibl>
+            </q>
+            <p>
+               <hi>Keep therefore and do (my STAT<g ref="char:V">Ʋ</g>TES and J<g ref="char:V">Ʋ</g>DGE<g ref="char:EOLhyphen"/>MENTS) for this is your wiſdom, and your underſtanding in the ſight of the Nations, which ſhall hear all theſe Sta<g ref="char:EOLhyphen"/>tutes, and ſay, Surely this great Nation is a wiſe and un<g ref="char:EOLhyphen"/>derſtanding People.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Macock,</hi> for <hi>Luke Fawn,</hi> and are to be ſold at his Shop at the Signe of the <hi>Parrot,</hi> in <hi>Pauls</hi> Church-yard, 1657.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64311:2"/>
+            <pb facs="tcp:64311:2"/>
+            <head>To the Truly Honourable, the Parliament of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE</hi> Great Leſſon <hi>that the Lord hath been teaching man in all Ages (which, alas, he hath yet but a little learned) is, That he is nothing without God.</hi> Da<g ref="char:EOLhyphen"/>vid <hi>ſought to teach his Son</hi> So<g ref="char:EOLhyphen"/>lomon <hi>this, in that Pſalm that he compoſed on purpoſe for him,</hi> Except the Lord build the Houſe, they labour in vain that build it: Except the Lord keep the City, the Watchman waketh but in vain. Salomon <hi>he knew was to ſucceed him in his Throne, and to have af<g ref="char:EOLhyphen"/>fairs of a Publique and weighty</hi> Import <hi>in his hands, and therefore would have him well digeſt this firſt and beſt Rule in Chriſtian Policy,</hi> That the creature acts in all things in vain, wherein it acts without God.</p>
+            <pb facs="tcp:64311:3"/>
+            <p> 
+               <hi>No rule is more needful for</hi> Magiſtrates <hi>to learn, and which when once well learned, and well practi<g ref="char:EOLhyphen"/>ſed, will of all other things (if the world could but once believe it) moſt avail to the proſperity and ſucceſs of their Affairs.</hi>
+            </p>
+            <p>
+               <hi>When God called</hi> Gideon <hi>forth to a Publique Work, he firſt tells him he would be with him; and then adds,</hi> Go forth in This thy might.</p>
+            <p>
+               <hi>If the Creature goes forth in any might but this, it is a poor weak thing.</hi>
+            </p>
+            <p>
+               <hi>It is</hi> Recorded <hi>in Sacred Story, that the</hi> Iſrae<g ref="char:EOLhyphen"/>lites followed Saul trembling, <hi>when he went to Battel againſt the Philiſtims.</hi>
+            </p>
+            <p>
+               <hi>They thought they ſhould be ſtrong, and victori<g ref="char:EOLhyphen"/>ous when they had gotten a King, and no ſooner had they him, but they follow him trembling. Such will all creature ſtrength be to us, it cannot deliver us from Fear, and Falling; or be a Rock to the heart of Man.</hi>
+            </p>
+            <p>
+               <hi>Your deep ſenſe of this</hi> (Right Honourable) <hi>was that which I ſuppoſe moved you to ſet apart a day for a more ſolemn ſeeking Aid and Counſel from God; and wherein you was pleaſed to call for my poor Service in that days work, together with two others far more able. That we might do for you, (according to what</hi> Jonathan <hi>did to</hi> David <hi>when he was in ſtreights, in the Wilderneſs of</hi> Ziph) <hi>ſtrength<g ref="char:EOLhyphen"/>en your hands in God.</hi>
+            </p>
+            <p>
+               <hi>You were then as in a</hi> Wilderneſs, <hi>and you did not clearly ſee your way; but have your hands been ſince more ſtrengthned in God?</hi>
+            </p>
+            <p>
+               <hi>You was pleaſed to command (for ſo is your Deſire</hi>
+               <pb facs="tcp:64311:3"/> 
+               <hi>to me) that I ſhould ſpeak ſomthing from the Lord to you; and what I ſpake, as it was calculated for your Meridian, ſo I intended it for no wider a</hi> Sphaere <hi>then the Walls of your own Houſe: But ſeeing you are pleaſed to call for it to walk abroad, I have obeyed you, though not without ſome reluctance.</hi>
+            </p>
+            <p>
+               <hi>The Work you met upon was</hi> Serious, <hi>and the Day</hi> Solemn; <hi>ſo that I durſt not but preach plainly, as thoſe will find that read.</hi>
+            </p>
+            <p>
+               <hi>Only I muſt acquaint you, that the latter end of the Sermon I preached not, becauſe I was prevented by the time, chuſing rather to be abrupt then te<g ref="char:EOLhyphen"/>dious.</hi>
+            </p>
+            <p>
+               <hi>Which indeed was a further Motive to me to yeild it to the</hi> Preſs; <hi>and that I might preſent that to your Eyes, which I could not then preſent to your Ear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>
+               <hi>And here and there I have added ſomthing above what I ſpake, as being then compelled to ſhorten, where I could with least loſs.</hi>
+            </p>
+            <p>
+               <hi>So that this I can ſay, I have preſented you with a</hi> fuller expreſſion <hi>of what was in my thoughts and papers in the Sermon as Printed, then the Sermon as Preached.</hi>
+            </p>
+            <p>
+               <hi>VVhat-ever it is, though it ſhews forth much of my weakneſs, yet I aſsure you it ſhews forth my hearty willingneſs to ſerve Christ, and to ſerve you in a ſub<g ref="char:EOLhyphen"/>ordination unto him.</hi>
+            </p>
+            <p>
+               <hi>One generation paſſeth, to make way for another; and ſo men ſerving their generations, have past away that others might come in,</hi> Moſes <hi>was taken off, that</hi> Joſhua <hi>might come in, and</hi> David <hi>to make way for</hi>
+               <pb facs="tcp:64311:4"/> Salomon; <hi>And ſo other Powers, and Parliaments have past away to make room for you. And now ye are upon the Stage, and therefore endeavour to Act No<g ref="char:EOLhyphen"/>bly, to Act Gallantly, as ſtanding in the view, not of men only, but of God, and that when you go off you may go off with the Applauſe, I will not ſay of men, but of God himſelf.</hi>
+            </p>
+            <p>
+               <hi>There is a</hi> Providence <hi>that orders in what</hi> Gene<g ref="char:EOLhyphen"/>ration <hi>every man ſhall be brought forth; and there<g ref="char:EOLhyphen"/>fore every man ſhould be enquiring, why was I brought forth in this generation, and not another? And what is the work of this Generation wherein the Lord ex<g ref="char:EOLhyphen"/>pects that I ſhould come forth, and ſerve him? And it is Satans deſign and policy to amuſe men about other work that concerns them not, that ſo he might divert them from that which is their proper work.</hi>
+            </p>
+            <p>
+               <hi>And ſhall I be bold here,</hi> (Honoured Gentlemen) <hi>to put you in mind of that, which I hear hath been ſome time already under your conſideration; and that is to do ſomething toward the payment of the debts that are yet behind upon the Publique faith, eſpecially to the poorer ſort: Many poor honeſt people live yet in hope that that Faith will not fail.</hi>
+            </p>
+            <p>
+               <hi>I know the wants and expences of the Nation are great, yet Mercy and Juſtice never to this day did any wrong to a State.</hi>
+            </p>
+            <p>
+               <hi>The condition alſo of poor Priſoners, that would pay if they could, as I was ſolicited to preſent it before you, ſo I humbly leave it to your Juſtice and Wiſdom to con<g ref="char:EOLhyphen"/>ſider of it.</hi>
+            </p>
+            <p>
+               <hi>I know alſo your work is great, and God may cut out more work for you, and for his people in this Na<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:64311:4"/> ere long, then they are <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t aware of. Oh it is an happy thing to have Spirit fitted to what work God will engage us in.</hi>
+            </p>
+            <p>
+               <hi>And let us take heed that calm times do not make us ſecure, and ſettle in the world.</hi>
+            </p>
+            <p>
+               <hi>You know when</hi> Sampſon <hi>ſlept in</hi> Delilah's <hi>lap, then he loſt his ſtrength, and loſt God: and when he went to rouſe up himſelf as at other times, then he felt his weakneſs.</hi>
+            </p>
+            <p>
+               <hi>So if through ſecurity, and lying in the lap of any beloved</hi> Delilah, <hi>we do fall aſleep, we hazard the loſs of our ſtrength, and the departing of God, and then when we may be called forth to any work, we may ariſe and think to prevaile as in the days of old, when alas our strength is gone.</hi>
+            </p>
+            <p>
+               <hi>Oh be watchful, faithful, low in your own eyes; and the lower you are thus, the more will God de<g ref="char:EOLhyphen"/>light to honour you, and the more honour he puts upon you; the lower be you ſtill.</hi>
+            </p>
+            <p>
+               <hi>As we read of</hi> Moſes, Gideon, David, Sa<g ref="char:EOLhyphen"/>lomon, yea and Saul, <hi>when the Lord came to call them forth to publick work, and put honour upon them, then were they</hi> loweſt <hi>in their own eyes.</hi>
+            </p>
+            <p>
+               <hi>God delights to work by ſuch Inſtruments that are low in their own eyes; yea that may be low in the eyes of others; that glory may bee his a<g ref="char:EOLhyphen"/>lone.</hi>
+            </p>
+            <p>
+               <hi>And to be ſerviceable in your Generation to Chriſt, his People, and the Nations whereof you are the Meſsengers: if you pleaſe at your leiſure to peruſe the following Diſcourſe, you ſhall find it to</hi>
+               <pb facs="tcp:64311:5"/> 
+               <hi>be your greateſt Intereſt<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd your Trueſt Wiſdom, and as I have in my S<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>on endeavoured to diſ<g ref="char:EOLhyphen"/>cover it; ſo, that you may eminently attain it, ſhall be the earneſt prayer of him, who would fain approve himſelf to be the</hi>
+            </p>
+            <closer>
+               <signed>Faithful Servant of Jeſus Chriſt, <hi>and of</hi> Your Honours in him, MATTHEW BARKER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:64311:5"/>
+            <head>THE FAITHFUL And VViſe Servant.</head>
+            <head type="sub">Delivered in a Sermon preached be<g ref="char:EOLhyphen"/>fore the Parliament, at their late Faſt, <hi>January</hi> 9. 1656.</head>
+            <epigraph>
+               <bibl>From Pſal. 2. 10, and part of Verſ. 11.</bibl>
+               <q>Be wiſe, now therefore, O ye Kings, be inſtructed ye Judges of the Earth, Serve the Lord with fear, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Pſalm is an eminent Propheſie of the Kingdom of the Meſſiah, and ſo acknow<g ref="char:EOLhyphen"/>ledged by the Jews themſelves, although it agree to <hi>David</hi>'s Kingdom in the let<g ref="char:EOLhyphen"/>ter; yet <hi>David</hi>'s Kingdom was not ſet up ſo much for it ſelf, as to be a type and ſhaddow of another Kingdom to be ſet up after it in the world. And though it be the moſt bleſſed Kingdom that ever aroſe, and ſet up on purpoſe for the de<g ref="char:EOLhyphen"/>livery
+<pb n="2" facs="tcp:64311:6"/> and ſalvation of man, yet when it came to be ſet up, the whole world in a manner roſe up againſt it. In the Pſalm we have</p>
+            <p n="1">1. A Diſtribution of the perſons; the ſeveral ſorts of men that ſtood up in oppoſition to it: As firſt, The common people, and that both of Gentiles, <hi>Why do the Heathen rage?</hi> and of Jews, <hi>And the people imagine a vain thing?</hi> verſe 1. And ſecondly, The Kings and Rulers of the earth; <hi>The Kings of the Earth ſet themſelves, and the Rulers take Coun<g ref="char:EOLhyphen"/>ſel together againſt the Lord, and againſt his Anointed,</hi> v. 2.</p>
+            <p n="2">2. He ſhews implicitely at leaſt wherein they do eſpecially oppoſe it, <hi>viz.</hi> in the Laws, Statutes, and Ordinances of it; <hi>Let us break their Bands aſunder, and caſt away their Cords from us.</hi> verſe 3. This Kingdom comes to lay bands upon men, to lay Laws and yokes upon the luſts, and licentious nature of man, which he cannot bear.</p>
+            <p n="3">3. He ſhews what ſucceſs they meet with in their oppoſition; as it is a bad work, ſo it meets with as bad ſucceſs: for it is ſaid.</p>
+            <p n="1">1. <hi>God laughs at them;</hi> As a company of mad-men, buſying themſelves about their own ruine, verſ. 4. <hi>He that ſits in the Heavens ſhall laugh at them.</hi>
+            </p>
+            <p n="2">2. <hi>He ſpeaks to them,</hi> and that <hi>in his wrath,</hi> he gives them warning to forbear, as in verſ. 5. Before he falls upon them, he doth admoniſh them of ſeveral things; As</p>
+            <p n="1">1. That it was his King they oppoſe a King that he himſelf had ſet up, as in verſ. 6.</p>
+            <p n="2">2. A King alſo ſetled and eſtabliſhed by his Decree, as in verſ. 7.</p>
+            <p n="3">3. The King alſo was his own Son; <hi>Thou art my Son;</hi> And he tells them the particular time of his Inſtalment, to day, <hi>This day have I begotten thee.</hi> Which the Apoſtle applies <hi>Acts</hi> 13. 33. to the day of Chriſts reſurrection; for though Chriſt was anointed before, yea he was born a King<g ref="char:punc">▪</g> yet he came not into the full poſſeſſion and execution of his Kingly office until his Reſurrection; As the Apoſtle aſſerts <hi>Rom.</hi> 14. 9. <hi>To this end Chriſt died, and roſe, and revived, that he</hi>
+               <pb n="3" facs="tcp:64311:6"/> 
+               <hi>might be Lord both of quick and dead.</hi> Yea and Chriſt himſelf atteſts it, <hi>Matt.</hi> 28. 18. where he ſpeakes after his reſurre<g ref="char:EOLhyphen"/>ction, <hi>All power is given me both in Heaven and Earth.</hi>
+            </p>
+            <p n="4">4. He tels them, he was a King that he had given univerſal Lordſhip and dominion to; <hi>I will give thee the Heathen for thine inheritance, and the uttermoſt parts of the earth for thy poſſeſſion,</hi> verſ. 8.</p>
+            <p>Theſe things they are told by way of admonition, but when this prevailes not: then, Laſtly, he falls upon them, and he breakes them in pieces, <hi>Thou ſhalt break them with a Rod of Iron, thou ſhalt daſh them in pieces like a Potters Veſſel,</hi> as verſ. 9.</p>
+            <p>Now in the three laſt verſes of the Pſalm he makes appli<g ref="char:EOLhyphen"/>cation of the whole preceding diſcourſe, and applies it particularly to the Rulers and Governours of the Earth; either becauſe they are the moſt likely to oppoſe the King<g ref="char:EOLhyphen"/>dom of Chriſt, as fearing it might claſh with their earthly and ſecular intereſts, as <hi>Herod</hi> did; Or elſe becauſe <hi>their</hi> ſubjecting to it, is likely to make a fair way for its enter<g ref="char:EOLhyphen"/>tainment throughout the world: And he applies it by way of ſerious adviſe and counſel to them.</p>
+            <p n="1">1. Firſt, he adviſeth them to be wiſe, and well inſtructed; (as it behoves men in power to be men of wiſdom) <hi>Be wiſe now therefore, O ye Kings, be inſtructed ye Judges of the Earth,</hi> verſ. 9.</p>
+            <p n="2">2 He tels them wherein they are to declare their wiſdom; <hi>Serve the Lord with fear, rejoyce with trembling; Kiſs the Son,</hi> which he preſſeth by a double argument.</p>
+            <p n="1">1. <hi>Ab incommodo,</hi> from the great evil, and miſchief that was likely to enſue in caſe they did not thus; <hi>Leaſt he be angry, and you periſh in the way, when his wrath is kindled but a little.</hi>
+            </p>
+            <p n="2">2. <hi>Ab utili,</hi> from the great and bleſſed advantage that would follow upon it, in caſe they did; <hi>Bleſſed are all they that put their truſt in him.</hi> Thus you have in brief the Ana<g ref="char:EOLhyphen"/>lyſis of the Pſalm: But, I muſt go back to my Text, which is nothing elſe, as I ſaid, but a piece of ſerious and wholſome
+<pb n="4" facs="tcp:64311:7"/> Counſel adminiſtred to the Rulers, and Governours of the world, whether higher or lower, more fixed or tranſient about their comportment towards Chriſt, and his Kingdom, when he is ſetting it up in the world.</p>
+            <p>And though this word was ſpoken by <hi>David,</hi> many hun<g ref="char:EOLhyphen"/>dred, yea thouſands of years ago, yet it ſpeaks now as much as ever, and is this day brought (though by a mean in<g ref="char:EOLhyphen"/>ſtrument) within your walls, and ſpeakes to you.</p>
+            <p>In the Text we have conſiderable.</p>
+            <p n="1">1. The matter, or the ſubſtantial part of the Counſel; which is, <hi>Serve the Lord.</hi>
+            </p>
+            <p n="2">2. Here are the perſons, to whom it is particularly dire<g ref="char:EOLhyphen"/>cted; the <hi>Kings, and Judges of the Earth,</hi> they are the per<g ref="char:EOLhyphen"/>ſons eſpecially admoniſht to ſerve the Lord.</p>
+            <p n="3">3. Here is the manner how the Lord is to be ſerved, <hi>Serve the Lord with fear.</hi>
+            </p>
+            <p n="4">4. Here is the motive or argument whereby this Counſel is enforced; And that is, This will be their <hi>Wiſdom,</hi> hereby they will ſhew themſelves wiſe men, <hi>men well inſtructed.</hi>
+            </p>
+            <p>1. Firſt, I ſhall ſpeak to the matter, or ſubſtance of the Counſel: which is, <hi>ſerve the Lord,</hi> where we have: firſt the Act, <hi>ſerve;</hi> and the Object about which it is conver<g ref="char:EOLhyphen"/>ſant, <hi>The Lord.</hi>
+            </p>
+            <p>The Act, <hi>Serve;</hi> The word <hi>Service,</hi> as applyed to God or Chriſt, is taken either more ſtrictly, for that ſervice we perform when we are upon ſome part of his inſtituted wor<g ref="char:EOLhyphen"/>ſhip, as prayer, hearing, &amp;c. and ſo is enjoyned in the ſe<g ref="char:EOLhyphen"/>cond Commandement, and is ſo taken, <hi>Acts</hi> 26. 7.</p>
+            <p>Or elſe it is taken more largely, for any duty of Chriſtia<g ref="char:EOLhyphen"/>nity, any action of mans life, which he performes in obe<g ref="char:EOLhyphen"/>dience to the will of God, and ſubordination to his glory: and ſo it takes in all the other 9. commandements, and is thus uſed, <hi>Rom.</hi> 12. 11.</p>
+            <p>And as I conceive alſo in the Text.</p>
+            <p>Then for the Object, <hi>The Lord.</hi> In the Heb. Jehovah: And whether it is God the Father here ſpoken of, or Chriſt, who is the King mentioned before, that was ſet up, and
+<pb n="5" facs="tcp:64311:7"/> the Son that is to be kiſſed, though it is ſomwhat controver<g ref="char:EOLhyphen"/>ted among Expoſitors, yet I think it not material to ſpend time about it; ſeeing we cannot ſerve one aright, but we muſt ſerve both, the Son as in the Father, and the Father as in the Son.</p>
+            <p>And then for the perſons that are thus more particularly admoniſht to ſerve the Lord, they are <hi>Kings, and Judges,</hi> men that ſit at the upper end of the world. The eminency of their place doth not the more acquit them, but rather the more ingage them to ſervice: Though they be <hi>Kings,</hi> yet there is a King eminently above them, from whom their power is derived upon them, and therefore they muſt ſerve; If they be <hi>Judges,</hi> yet there is a Judg higher then they, be<g ref="char:EOLhyphen"/>fore whoſe tribunal they muſt ſtand, and be judged, and therefore they muſt be ſerving.</p>
+            <p>So that the main propoſitions from hence reſulting, which I ſhall inſiſt upon, is this,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> That the great work that every man hath to do in this world, eſpecially thoſe that are ſet down in places of pow<g ref="char:EOLhyphen"/>er and ſeat of judgement, is, To be ſerviceable to the Lord. This is the work we come into the world for, and if this be not done, we ſhall give but a ſad account of our lives to the Lord. God made all creatures for ſervice, the Sun, Moon, and Stars for ſervice, the Clouds, the Air, the Fire, the Earth for ſervice, &amp;c. but much more Man: And it is a monſter in nature for the creature not to ſerve its end. As for the Sun and Stars above to confine their light within themſelves, and not to ſend it down up<g ref="char:EOLhyphen"/>on the world; for the clouds to hold in their moiſture, and not to reſolve it upon the earth: for the earth to impriſon its fatneſs and virtue within its ſelfe, and not ſend it forth in graſs, corn, and fruit for the uſe of man and beaſt: would not this be a monſtrous thing in the world? So for man to be ſerving himſelf with thoſe powers and abilities that God hath put into him, and not the Lord, is a thing as abſurd and anomalous. Look through the whole Creation, you ſhall not find any creature that was made for it ſelf: every
+<pb n="6" facs="tcp:64311:8"/> creature is ſerving ſome end without it ſelf. So is man much more made for an end without himſelf, which is to ſerve the Lord.</p>
+            <p>So that, (Right Honourable) my work I come upon this day amongſt you, is to put you in mind of your <hi>Debt,</hi> I mean that Homage, Duty, Service, and Subjection, which you all do owe to the Lord; and which muſt be paid by every one of you: for though the <hi>Debt of Satisfaction</hi> which through ſin we owe to the juſtice of God, he remit it for Chriſts ſake to his people, yet the <hi>Debt of Service</hi> which we owe to his glory, he neither hath remitted it, or ever will remit it to any of the ſons of men.</p>
+            <p>But that we may a little underſtand what it is to ſerve the Lord, take this twofold diſtinction.</p>
+            <p>
+               <hi>There is a ſerving God either mediately, or more immediately.</hi>
+            </p>
+            <p>Firſt, As to the Mediate Service, The whole Creation ſerveth God; by and through man, the creatures without <hi>reaſon,</hi> without <hi>ſence,</hi> and without <hi>life,</hi> do ſerve their Crea<g ref="char:EOLhyphen"/>tor, as they hold forth to man ſuch footſteps of his glory wherein he may admire, praiſe and glorifie him.</p>
+            <p>The greatneſs of the works of God ſhew forth his great<g ref="char:EOLhyphen"/>neſs, their beauty his beauty, their perfection his perfe<g ref="char:EOLhyphen"/>ction, their order and workmanſhip, his infinite wiſdom; their courſe, and motion, his providence in the world.</p>
+            <p>Or elſe they ſerve God through man, as they ſerve to maintain him in his Life, and Being, which being maintained are to be ſubordinated to the Lord, and to his ſervice: The Sun ſends down its influence that man might live, the clouds diſtil their moiſture that man might live, the Sea ſends forth its waters that man might live, the Earth brings forth its fruit that man might live; all do ſerve the life of man, that the life of man might ſerve the Lord.</p>
+            <p>2. There is a more immediate ſerving God, and ſo there are but two ſorts of creatures, Angels, and Men, whoſe ſervice can <hi>immedia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely</hi> refer to God. For no other creatures are
+<pb n="7" facs="tcp:64311:8"/> capable of an immediate application of themſelves to him. They have not underſtanding to know him, Wills to cloſe with him; and ſo not capable of applying themſelves to him, or looking at him in any thing they do.</p>
+            <p>
+               <hi>The ſecond Diſtinction is this.</hi>
+            </p>
+            <p>There is a ſerving the Lord, <hi>ex Intentione,</hi> and <hi>praeter Intentionem.</hi>
+            </p>
+            <p>1. <hi>Praeter Intentionem,</hi> or accidental as to him that ſerveth; and ſo wicked men, who thought of nothing leſs then ſer<g ref="char:EOLhyphen"/>ving God, yet have eminently ſerved him: As <hi>Nebuchad<g ref="char:EOLhyphen"/>nezar</hi> King of Babylon ſerved a great ſervice for God againſt Tyrus, <hi>Ezek</hi> 29. 18, 19, 20. and God gave him the land of Egypt for his wages, though he intended nothing leſs then to ſerve God in that Deſigne.</p>
+            <p>And ſo the King of Aſſyria was employed by God to ex<g ref="char:EOLhyphen"/>ecute his vengeance upon the hypocritical Nation of the Jews; <hi>Howbeit</hi> (ſaith the Text) <hi>he meaneth not ſo, neither doth his heart think ſo:</hi> as you read <hi>Iſa.</hi> 10. 6, 7.</p>
+            <p>And ſo when <hi>Baaſha</hi> executed the vengeance threatned upon the houſe of <hi>Jeroboam,</hi> 1 <hi>King.</hi> 15. 29. and when <hi>Zimri</hi> executed the vengeance threatned upon <hi>Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſha,</hi> 1 <hi>Kings</hi> 16. 12. and when <hi>Jehu</hi> executed the judgement of God upon the houſe of <hi>Ahab,</hi> it was ſervice done for God; though they did not do it with an intention of ſerving him: yea the moſt eminent <hi>Propheſies</hi> upon Record have been fulfilled beſides the intention of the inſtruments: As that of Chriſt's being crucified for the redeeming of the world: <hi>Pilate</hi> and the Jews thought of nothing leſs then the fulfilling the counſel of the Lord in what they did, or in ſer<g ref="char:EOLhyphen"/>ving his decrees, or his glory therein, though they were emi<g ref="char:EOLhyphen"/>nently ſerved hereby.</p>
+            <p>2. There is a ſerving God <hi>ex Intentione;</hi> when the mind and heart of man reſpect God in what he doth. And this is the ſervice that God calls for, and the Text calls for, and doth alone find acceptance with God.</p>
+            <pb n="8" facs="tcp:64311:9"/>
+            <p> Now to this intentional ſerving God, there are three things neceſſary, that it find acceptance. 1. That mans principle be right. 2. That his rule be right. 3. That his end be right.</p>
+            <p n="1">1. That his <hi>Principle</hi> be right. It is ſomthing of <hi>God</hi> in man that can alone aright ſerve God. So ſaith the Apoſtle, <hi>Heb.</hi> 12. 28. <hi>Let us have grace, whereby we may ſerve God acceptably.</hi> Now grace is a divine principle, and it is only this whereby a man can ſerve acceptably.</p>
+            <p>The Apoſtle ſpeaks in <hi>Heb.</hi> 11. of many <hi>Heroick</hi> acts of ſervice done by theſe ancient Worthies, as <hi>Abel, Noah, Abraham, Iſaac, Moſes,</hi> &amp;c. But that which gave them their acceptance was the <hi>Principle,</hi> they did them by <hi>Faith,</hi> ſaith the Text, and tells us in verſe 6. that <hi>without faith it is impoſſible to pleaſe God.</hi> There muſt be the out-going of the ſoul toward God in that ſervice which finds acceptance; Now no principle can act the ſoul towards God, but that which is divine, and ſprings from him.</p>
+            <p n="2">2. As his <hi>Principle,</hi> ſo his <hi>Rule</hi> muſt be right; for God muſt be ſerved according to his own rule, which is his revealed Will; and where the rule is dark, we muſt either forbear until God doth clear it up, or elſe act up to it, as near as the light<g ref="char:punc">▪</g> we have will lead us. And this is the praerogative of man above the creatures below us, though they all act by a rule, and to an end which their Creator hath ſet them, yet they are not capable of underſtanding, either their rule or their end; but man is, and therefore if he would be acce<g ref="char:EOLhyphen"/>pted, he muſt have reſpect to his rule: As <hi>Saul,</hi> he offered Sacrifice, which in it ſelf was a good thing, and the caſe was ſomwhat urgent, for <hi>Samuel</hi> came not, and the people be<g ref="char:EOLhyphen"/>gan <note place="margin">1 Sam 13.</note> to ſcatter from him, and the Philiſtims to gather toge<g ref="char:EOLhyphen"/>ther againſt him, but becauſe he walked not by rule in that action, he was rejected of God.</p>
+            <p>Mans righteouſneſs lies eſpecially in his conformity to the Rule; as the Schoolmen ſpeak of a <hi>Lex aeterna in Deo,</hi> an eternal Law according to which God doth all his works both in Heaven and Earth, which is the righteouſneſs of God:
+<pb n="9" facs="tcp:64311:9"/> So there is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Lex ſcripta,</hi> a Law written either inwardly in mans heart, or without in the Scriptures, which is the rule of mans walking; and conformity thereunto is the righteouſneſs of man.</p>
+            <p>His <hi>End</hi> muſt alſo be right: For God is not ſerved when he is not our end. A man may be praying, and faſting, and yet not ſerve God; doing juſtice, giving alms, puniſhing ſin, rewarding vertue, and yet not at all ſerve God. Men indeed look moſt to other matter and ſubſtance of their acti<g ref="char:EOLhyphen"/>ons, becauſe they lie more open to the view of men; but that which God eſpecially looks at in man, and which is the moſt material thing in his actions, is his end. Somtimes when a man through ignorance miſtakes his rule, yet if hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end be upright, he may be accepted notwithſtanding. As the Apoſtle in <hi>Rom.</hi> 14. tells us of two ſorts of Chriſtians in that Church, ſome that underſtood their Goſpel liberty, and Goſpel rule of walking, and therefore did not obſerve days, nor confine themſelves to eat herbs, as others did, but yet becauſe in what the one and the other did, they had reſpect to God, they did both ſerve him; as he ſaith verſe 6. <hi>He that regardeth a day, regardeth it to the Lord; and he that re<g ref="char:EOLhyphen"/>gardeth not the day to the Lord, he doth not regard it.</hi> And they were both living to the Lord; and ſo both living and dying they were both the Lord's; as he alſo ſpeaks.</p>
+            <p>And now theſe few things being premiſed, I ſhall proceed to draw forth ſuch inferences from the Point, as may moſt naturally ſpring from it, and be moſt ſutable to the preſent day, and this honourable Aſſembly: And what may be needful by way of Argument to confirm it, I ſhall preſent in the Application, that ſo I may make the beſt improve<g ref="char:EOLhyphen"/>ment I can of a little time, and ſpeak to your judgements and affections both together.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> And firſt, I ſhall infer hence ſomthing for Inſtruction. If this be to ſerve God, as you have heard, Then no man can ſerve God without the ſpirit of God. So that the genera<g ref="char:EOLhyphen"/>tion of men that are indeed ſerving God in the world, are alone thoſe that have received the ſpirit. God is a ſpirit, and
+<pb n="10" facs="tcp:64311:10"/> muſt be ſerved in ſpirit, and no man can ſerve in ſpirit, but he that hath received the ſpirit. The Apoſtle in <hi>Rom.</hi> 7. 4. ſpeaks of Believers that they were dead to their firſt husband the Law, that they might be married to another, even to him who is raiſed from the dead: And why muſt they be thus married? That we might bring forth fruit unto God. By marrying with Chriſt, by our union with him, we come to partake of his Spirit and ſo to bring forth fruit unto God. The Spirit is that divine ſap which is ſhed from Chriſt the root into thoſe ſouls that are in union with him, whereby they bring forth fruit unto God.</p>
+            <p>And there is a threefold work of the Spirit that muſt paſs upon man before he can be made a true ſervant.</p>
+            <p n="1">1. A work of Conviction: He muſt be convinc'd of that abſolute dependance he hath upon God; that he cannot ſub<g ref="char:EOLhyphen"/>ſiſt and live of himſelf without God: For until a man doth ſee his dependance, he will not ſerve. A man will not wil<g ref="char:EOLhyphen"/>lingly ſubject himſelf to the will of one, upon whom he hath no dependance. Now a man without the ſpirit, his heart ſpeaks that he can ſubſiſt of himſelf, by his own wit, wiſdom, providence, induſtry, and creature Intereſt, and therefore he regards not God, he ſerves not God; but him<g ref="char:EOLhyphen"/>ſelf, or the creature, as thinking he depends more upon theſe then upon the Lord. And this is the reaſon that when men are to tranſact any work, they are careful about the means, but they look not at God, or very ſlightly; it is becauſe they think they depend more upon the means then God; which is a piece of Atheiſm that grows in all our hearts; and thoſe have found it, that are come to know their own hearts; and muſt be rooted up by the convictions of the Spirit, before man will indeed become the Lord's ſer<g ref="char:EOLhyphen"/>vant.</p>
+            <p>Yea again<g ref="char:punc">▪</g> He muſt alſo be convinc'd that in ſerving God there is the beſt reward. Every man before he enters upon work, is looking what his reward and wages ſhall be: As thoſe in the Goſpel that we read of in <hi>Matth.</hi> 20. 6, 7. be<g ref="char:EOLhyphen"/>ing asked why they ſtood all the day long idle; they an<g ref="char:EOLhyphen"/>ſwered,
+<pb n="11" facs="tcp:64311:10"/> becauſe no man hath hired us; they would not work till they had ſome promiſe of wages; now when man is throughly convinc'd that Gods work will have a reward, and the beſt reward; this inclines him and draws him to his ſervice: now the Reward that God gives, it excels, 1. In the greatneſs of it, no reward can match it; what ever the Devil or the World may offer, yet God doth infinitely out<g ref="char:EOLhyphen"/>bid them, what they offer is but a piece of light and fa<g ref="char:EOLhyphen"/>ding vanity, but what God offers is a weight, an eternal weight of glory.</p>
+            <p>The Reward muſt needs be great, becauſe God rewards not only according to mans work, but according to the riches of his own grace, and bounty: A great King accounts it his ſhame to give a mean reward, he muſt do all things like himſelf: It is ſaid <hi>Heb.</hi> 11. 16. of thoſe believing Patri<g ref="char:EOLhyphen"/>archs, <hi>God was not aſhamed to be called their God;</hi> why? for ſaith the Text, <hi>he hath prepared for them a City;</hi> that is, if God had not well provided for them, if he had not pre<g ref="char:EOLhyphen"/>pared a glorious habitation for them, ſomewhat like him<g ref="char:EOLhyphen"/>ſelf, he might have been aſhamed to be called their God: ſo</p>
+            <p>This Reward excels in the ſureneſs of it. It will certainly come. Though we may fail of <hi>ſucceſs</hi> in our work, yet we ſhall not miſſe the reward of it, as the Prophet <hi>Iſaiah</hi> ſpeaks, <hi>Iſai.</hi> 49. 4. <hi>I have laboured in vain,</hi> there he miſt his ſucceſs, <hi>yet my judgment is with the Lord, and my works with my God:</hi> there he finds the reward. And it is the Apoſtles argument, 1 <hi>Cor.</hi> 15. <hi>ult.</hi> let us abound in the work of the Lord, and the <hi>Argument</hi> is, not only becauſe there is a reward, but the reward is ſure; as <hi>knowing that our labour is never in vain in the Lord.</hi>
+            </p>
+            <p>It is true God doth defer it, at leaſt the greateſt part of it; but why is it? that he might learn us to live upon <hi>Truſt.</hi> He having given us ſuch a ſure promiſe, he may preſume that we have enough to ſupport and encourage us, though the reward be for a ſeaſon deferred; Therefore ſaith the Apoſtle <hi>Heb.</hi> 10. 35: <hi>Caſt not away your confidence which hath great recompence of reward:</hi> Oh, but we do not ſee the re<g ref="char:EOLhyphen"/>compence,
+<pb n="12" facs="tcp:64311:11"/> we poſſeſs it not; therefore he adds, <hi>yet a lit<g ref="char:EOLhyphen"/>tle while, and he that ſhall come will come, and will not tarry, and the juſt ſhall live by faith.</hi>
+            </p>
+            <p n="2">2. The ſecond work of the ſpirit is a work of mortification, Mans ſelfiſh nature muſt be mortified; elſe he will be ſer<g ref="char:EOLhyphen"/>ving himſelf, and not the Lord. That life in a believer that ſerves the Lord, ſprings out of the death of his carnal life: as man ceaſeth to be his own, ſo doth he come to ſerve the Lord, and live to him.</p>
+            <p>The meſſage that <hi>Moſes</hi> carried to Pharaoh from the Lord was this, <hi>Let my people go, that they may ſerve me;</hi> they muſt go out of the Land of Egypt, and from under the power of <hi>Pharaoh,</hi> that they might ſerve the Lord.</p>
+            <p>So muſt man go out of that ſelfiſh nature that keeps him in bondage, and out of the power of the infernal <hi>Pharaoh,</hi> before he can be capable of ſerving God. And this is done in us by the Spirit, that ſmites thoſe enemies that held us in bondage, that we might go forth into the liberty of ſer<g ref="char:EOLhyphen"/>ving God; pride muſt be ſmitten, and ſelf-love muſt be ſmitten, and unbelief muſt be ſmitten, &amp;c. before any man doth indeed enter into the Lords ſervice. No man, ſaith Chriſt, can ſerve two Maſters; eſpecially two Maſters whoſe commands are contradictory; now every luſt is a Maſter, which man is ſerving, and till the Spirit crucifie them, man cannot be ſerving Jeſus Chriſt.</p>
+            <p n="3">3. The third work is a work of <hi>renovation.</hi> The faculties of the ſoul muſt paſs under a ſpiritual renovation before they can be fit to ſerve the Lord. For I am not of their opinion who think that if luſt be mortified, the ſoul would of it ſelf return into its primitive courſe; as a river that is ſtopt, if you remove the dam, it runs of it ſelf; or a ſtone that hangs in the ayr by a ſtring, if you cut the ſtring, of it ſelf it falls to the centre: but there muſt be <hi>aliquid divinitus in<g ref="char:EOLhyphen"/>fuſum,</hi> a principle infuſed from above to act it towards the Lord, and in his ſervice.</p>
+            <p>Luſt, it is a confining thing, it makes man dwell at home, and ſerve himſelf, but grace is enlarging, it lets man out
+<pb n="13" facs="tcp:64311:11"/> of himſelf, and brings him home to the Lord, and to the ſervice of the Lord. He that is a fit ſervant for a Prince, muſt have many accompliſhments to fit him for it: And ſo would I dwell here, I might ſhew you how many things are neceſ<g ref="char:EOLhyphen"/>ſary to accompliſh a man for the Lords ſervice, as Faith, Love, Hope, Humility, Self denyal, &amp;c. are all neceſſary; that he may be <hi>a veſſel of honour</hi> prepared for his Maſters <note place="margin">2 Tim. 2. 21.</note> uſe: For natural accompliſhments may fit a man for the ſervice of man, but man muſt be accompliſht from Heaven to fit him for the Lords ſervice: But I paſſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> That which I infer next from the Doctrine, as more ſuitable to the day, is matter of Lamentation: Ah, may we not mourn over our ſelves, mourn over the City, mourn over the Nation, yea, mourn over the world, that that which is mans great work, is laid aſide as if it was none of his work; at leaſt other work hath the praeeminence: Oh that the Devil that hath no true right to us, for he neither made us, nor bought us; and that payes no wages but death, and miſery; and that the luſts of the fleſh, to which as the Apoſtle ſaith, <hi>we are no debtors,</hi> yet theſe ſhould have more real, more free, more chearful ſervice then God, then Chriſt, to whom we are indebted by ſo manifold in<g ref="char:EOLhyphen"/>gagements, and obligations!</p>
+            <p>This is true, but ah, is it not ſad? Hath not Chriſt, think you better deſerved of the World? Hath he not? Might not Jeſus Chriſt promiſe himſelf, that after he had manife<g ref="char:EOLhyphen"/>ſted ſuch ſtupendious love, as to lay down his life for an un<g ref="char:EOLhyphen"/>done world, that they ſhould be ſo amazed, ſo raviſht with this love, as to be ambitious who ſhould love him moſt, and honour him moſt, and ſerve him moſt; that the very naming the name of Chriſt, ſhould be argument enough to provoke them to ingage in any ſervice for him.</p>
+            <p>Yea and after he had laid down the price of his blood, the greateſt price that Heaven or Earth could give to purchaſe us, might he not promiſe himſelf, that the Sons of men would no longer be their own, but his, wholly his? But
+<pb n="14" facs="tcp:64311:12"/> alaſſe, we ſee nothing leſſe then this in the world. Men after all this are their own, live to themſelves, ſerve them<g ref="char:EOLhyphen"/>ſelves, and Chriſt and his ſervice both, are deſpiſed, and rejected of men, may not Heaven and Earth even tremble<g ref="char:punc">▪</g> and be aſtoniſht at this?</p>
+            <p>Or, when men are ſerving Chriſt, do they ſerve him with the beſt, do they ſerve him with ſuch life, and vigour, as they ſerve themſelves, and the world; do not they bring him the lame, the blind, the torn, the maymed, as if any thing was good enough for Chriſt; as <hi>Jeroboam</hi> made Prieſts of the loweſt of the People; ſo do men think the loweſt of their affections, the very dreg of their time and ſtrength good enough for God.</p>
+            <p>Was there ever ſuch love, as that which Chriſt ſhew'd to the world, and was there ever any carriage ſo unworthy, and ſo unſufferable as that which Chriſt receives from the World?</p>
+            <p>We have the Type of this in the Nation of the Jews. You know God did wonderfully for that people; brought them out of Egypt by an out ſtretched arm; and carried them through the wilderneſs by a continual miracle, and then ſetled them in a pleaſant land, ſuch a land as could not, for, all things, be matched by any upon earth; might not now God expect, think you, eminent love and ſervice from ſuch a people: but when they come into the good land, they preſently defile it with their Idolatries, they forget the workes of God: and as the Prophet <hi>Jeremy</hi> expreſſeth it, <hi>They ſay not, where is the Lord that brought us out of the Land of Egypt, that led us through the wilderneſs?</hi> &amp;c. So after all the wonderfull works of power and love that Chriſt hath wrought for the redemption of man, and for the ſetling him in an heavenly inheritance, Oh how much is this Chriſt forgotten; How few are there that ſay, where is this Jeſus that hath done theſe things; Oh where is he, that we may adorn him, that we may embrace him, that we may devote our ſelves, and all that we are and have to him: Ah, muſt not this be for a Lamentation this day, may we not lament
+<pb n="15" facs="tcp:64311:12"/> upon Chriſts account, that he ſhould be ſo much deſpiſed, and his ſervice neglected, and upon the worlds account, that they ſhould no better underſtand their own Intereſt, then to be ſerving other Maſters and caſt him off.</p>
+            <p>But to come a little nearer home, May not we particular<g ref="char:EOLhyphen"/>ly mourn over our ſelves, and the Nation this day? Oh the mercies that England hath received! But have we not too ſoon, too ſoon forgotten them? Hath God been ſer<g ref="char:EOLhyphen"/>ved under his mercy, and ſerved with his mercy as he ſhould have been? Do we ask after the God of our mercies, and ſay, Where is the God of all theſe mercies? Where is that God that delivered us from the Bondage of Popery and Su<g ref="char:EOLhyphen"/>perſtition in Queen <hi>Marys</hi> days; and from thoſe enſnaring Ceremonies, and ſuperſtitious Innovations in the late Pre<g ref="char:EOLhyphen"/>lats days? Where is that God that appeared for us at <hi>Kein<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, Newberry, Naſeby, Dunbar, Worceſter,</hi> &amp;c?</p>
+            <p>Might not God promiſe himſelf, that when he had deli<g ref="char:EOLhyphen"/>vered us out of the hands of our enemies, <hi>we would ſerve him without fear, in righteouſneſs and holineſs all the days of our life?</hi> But do we ſo?</p>
+            <p>And that when he had delivered us from thoſe innovati<g ref="char:EOLhyphen"/>ons that were intruded into his Worſhip; he ſhould have a pure worſhip, and pure Ordinances ſet up amongſt us; and a joyful and holy walking in them: But is it thus?</p>
+            <p>And that when once the danger of Saints meeting toge<g ref="char:EOLhyphen"/>ther, called <hi>Conventicling,</hi> was removed, they would fall into a ſweet and bleſſed communion and fellowſhip among themſelves: But alas is it thus?</p>
+            <p>As alſo might not God expect that thoſe which ſuffered together, and were delivered together, ſhould joyn heart and hand together, to promote the common Intereſt of Chriſt againſt the Common Enemy: But is this found a<g ref="char:EOLhyphen"/>mongſt us?</p>
+            <p>God told the Jews, <hi>Zach.</hi> 8. 19. that he would deliver them, and turn the Faſts of the fourth, fifth, and ſeventh moneth into joy and gladneſs, and cheerful Feaſts; and that therefore they ſhould love the Truth, and Peace.</p>
+            <pb n="16" facs="tcp:64311:13"/>
+            <p> God hath done much toward our deliverance, we muſt not, we dare not deny it; we inherit the fruit of the Pray<g ref="char:EOLhyphen"/>ers and blood of many of his precious Saints: But after all, Do we love the <hi>Truth,</hi> and <hi>Peace?</hi> Is <hi>Truth</hi> embraced? Is <hi>Peace</hi> preſerved? Nay, Is not the light of Truth darkned by pernicious Errors, and the beauty of Peace ſadly defaced by unhappy diviſions? And muſt not theſe things be for a Lamentation this day?</p>
+            <p>I remember when the <hi>Book of Sports</hi> came out in the late Kings days, there was a general lamentation among the good people of the Land, and a holy zeal for the ſpiritual obſer<g ref="char:EOLhyphen"/>vation of the Chriſtian Sabbath; But now, How many have ſet their Conſciences free from any ſuch duty, and others are running back to the Jewiſh Sabbath, and that more then every one is aware of? And the firſt ſtep to fall to the latter, muſt be the caſting off the former.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> That which I ſhall next infer from the Truth in hand, is, with all ſeriouſneſs to exhort and beſeech, that that which is our <hi>greateſt work,</hi> may be <hi>moſt</hi> minded. And ſeeing that <hi>(Honoured in the Lord)</hi> you have appointed us to be this day your <hi>SPEAKERS,</hi> to ſpeak to God for you, and to ſpeak from God to you: give me leave to enjoy that which is the <hi>Priviledge</hi> of this Houſe, to ſpeak freely. And I ſhall be bold to ſpeak to you, as ſtanding before the Lord this day, in a threefold <hi>capacity.</hi> 1. As <hi>Men.</hi> 2. As <hi>Chriſtians.</hi> 3. As <hi>Magiſtrates,</hi> and the <hi>TR<g ref="char:V">Ʋ</g>STEES</hi> of the three Nations.</p>
+            <p>Firſt, I ſhall ſpeak to you as men; and as men you are engaged to ſerve the Lord: For,</p>
+            <p>Firſt, Have you not received your <hi>Beings</hi> from him? Hath not he made you, and not <hi>you your ſelves?</hi> Doth not then the <hi>Law of Creation</hi> engage you to ſerve him by whom you are, or elſe you had never been?</p>
+            <p>There are certain Duties which <hi>Divines</hi> call Natural Worſhip, which the light of Nature doth dictate to men, and are due to him by the very Law of Creation; as to love God, fear him, truſt him; ſo alſo to <hi>ſerve</hi> him, and refer
+<pb n="17" facs="tcp:64311:13"/> our actions to him, which God never did, nor never will <hi>diſpenſe</hi> with to the ſons of men: So that he that lives in the world, and is not truly ſerving God in the world, this man ſins againſt the very <hi>Dictates</hi> of natural light, and againſt the <hi>Original</hi> and <hi>Fundamental</hi> right which God claims to us, as being his creatures, and the work of his hands. Shal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the thing that is formed ſay to him that formed it, What haſt thou to do with me? And, wherein am I indebted to thee? Shall not God enjoy his own <hi>Creature?</hi> And doth he enjoy it, if it is not ſerving him?</p>
+            <p>Secondly, As man was made by the <hi>Lord,</hi> ſo he was made peculiarly for the Lord; He made the reſt of the Creation to ſerve man, but he made man to ſerve himſelf. He fur<g ref="char:EOLhyphen"/>niſh'd him with ſuch <hi>Faculties</hi> of mind, that rendred him capable of <hi>knowing, praiſing,</hi> and <hi>ſerving</hi> his Creator: and is there but this one creature in this lower world that God made <hi>peculiarly</hi> to ſerve him, and ſhall he be diſappointed in that one?</p>
+            <p>Nay, ſhall the reſt of the Creatures keep their <hi>ſtation,</hi> and ſerve their end, and man not ſerve his?</p>
+            <p>When God would <hi>Arraigne</hi> a people that was rebellious againſt him, he calls Heaven and Earth to hearken, <hi>Iſa.</hi> 1. 2. <hi>Hear O Heavens, and hearken O Earth:</hi> Why? What ſtrange thing hath God to bring forth? Why this; <hi>I have nouriſhed and brought up children, and they have rebelled againſt me<g ref="char:punc">▪</g>
+               </hi> As if he had ſaid, Is there ſuch a thing to be found out in the whole Creation, that any creature which God had made, maintained, and ſhewed his power and goodneſs in, ſhould rebel againſt him? <hi>O Heavens!</hi> Is there any ſuch thing to be found with you? <hi>O Earth!</hi> Is there any ſuch thing to be found in thee? May not the <hi>Heavens,</hi> and the <hi>Luminaries</hi> above, riſe up againſt man, and ſay, We have obſerved our <hi>place,</hi> kept our <hi>diſtances,</hi> runs our <hi>race,</hi> pour<g ref="char:EOLhyphen"/>ed down our <hi>influences</hi> according to the <hi>Law</hi> ſet us in our Creation? May not the Earth riſe up and ſay, I have ſtood firm upon my <hi>Baſis,</hi> I have brought forth my <hi>increaſe,</hi> I have been <hi>ſerviceable</hi> to man's <hi>being,</hi> and man's <hi>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>light,</hi> by
+<pb n="18" facs="tcp:64311:14"/> thoſe varieties of fruits I have brought forth to him, ſweet to his <hi>taſte,</hi> fragrant to his <hi>ſm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> and beautiful to his <hi>fight,</hi> and that with a new <hi>Edition</hi> every year? Here are now the creatures ſerving thee, <hi>O man,</hi> and what, art not thou ſer<g ref="char:EOLhyphen"/>ving the Lord? Do <hi>they</hi> hand up that ſervice which they owe to thee, and wilt not <hi>thou</hi> hand up that ſervice which thou oweſt to God? Shall the work <hi>ſtick</hi> at thee? What? at thee! It is obſervable that which we read in <hi>Gen.</hi> 1. That God did not ſay of the works that he had made, that they were <hi>very good,</hi> until he had made man; he ſaw them to be good before, but now very good; for God had now made a <hi>creature</hi> that was to be the lord of the Creation, and that was made capable of bringing in to him the glory of his works, and ſo took the greater pleaſure in them upon that account: and therefore man ought to be careful that God be not diſappointed in him.</p>
+            <p>Thirdly, It is mans <hi>Excellency</hi> and <hi>Glory</hi> to ſerve the Lord.</p>
+            <p>The <hi>excellency</hi> of every thing lies in its ſerving its end; as of a <hi>knife</hi> in cutting, a <hi>pen</hi> in writing, <hi>&amp;c.</hi> Now man be<g ref="char:EOLhyphen"/>ing made for the Lord, as his end; it is his <hi>excellency</hi> to be ſerving him.</p>
+            <p>It is <hi>natural</hi> to man to ſeek after <hi>Excellency. Omne deſi<g ref="char:EOLhyphen"/>derium ad ſuperiora tendit.</hi> Some men ſeek for it in a <hi>great eſtate,</hi> others in <hi>Rule</hi> and <hi>Dominion,</hi> others in <hi>Wiſdom</hi> and <hi>Learning,</hi> &amp;c. according to mens ſeveral <hi>Conſtitutions</hi> and <hi>Apprehenſions,</hi> ſo they ſeek after ſeveral <hi>excellencies:</hi> but true <hi>excellency</hi> conſiſts in a mans upright and faithful ſerving his End. He that doth moſt eminently ſerve the Lord in his <hi>generation,</hi> this man doth moſt excel.</p>
+            <p>
+               <hi>Solomon</hi> ſaith, <hi>Prov.</hi> 12. 26. <hi>The righteous is more excellent th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n his Neighbour:</hi> and this is the thing wherein he excels, becauſe it is he only that is ſerving the Lord. In other things his neighbour may excel him.</p>
+            <p>The <hi>commendation</hi> that God gives to <hi>Moſes</hi> at his <hi>Fune<g ref="char:EOLhyphen"/>ral</hi> was this, that he was the <hi>ſervant of the Lord,</hi> Gen. 34. 5, 6. <hi>So Moſes the ſervant of the Lord died; and he buried</hi>
+               <pb n="19" facs="tcp:64311:14"/> 
+               <hi>him in a Valley, in the land of Moab,</hi> &amp;c. The <hi>Spirit</hi> of God might have ſtiled him <hi>Moſes</hi> the <hi>Honourable, Moſes</hi> the <hi>Prince, Moſes</hi> the <hi>Scholar, Moſes</hi> the <hi>Beautiful;</hi> But this was <hi>Moſes</hi> his chief <hi>excellency,</hi> that he was the <hi>Servant</hi> of the Lord. Though other <hi>excellencies</hi> may commend man more to the world, yet this is that which <hi>commends</hi> man to God.</p>
+            <p>Fourthly, Conſider this, not to ſerve the Lord is the higheſt <hi>Injuſtice:</hi> We with-hold that from God which is his <hi>Due:</hi> For ſervice is a debt that we owe him, and ſhall we dare to rob God?</p>
+            <p>What ſaith the Prophet <hi>Malachy, chap.</hi> 3. <hi>ver.</hi> 8. <hi>Will a man rob God?</hi> Scarce could there be found among the Hea<g ref="char:EOLhyphen"/>then any ſo <hi>profane</hi> and <hi>ſacrilegious,</hi> as to dare to rob their <hi>gods,</hi> though they were but dumb Idols; and ſhall any man dare then to rob the living God? To give away that ſervice to Mammon, to Satan, to encroaching luſts, which of due belongs unto him.</p>
+            <p>
+               <hi>Give unto Caeſar the things which are Caeſars, and unto God the things that are Gods.</hi>
+            </p>
+            <p>
+               <hi>Caeſar</hi> expects to have his due; if men do not give it, <hi>Cae<g ref="char:EOLhyphen"/>ſar</hi> will take it: and what then ſhall not God much more have his due? And will he not ſeverely require it at their hands that do with-hold it?</p>
+            <p>Parliaments are the <hi>Supreme Courts of Juſtice,</hi> the <hi>Foun<g ref="char:EOLhyphen"/>tains</hi> from whence <hi>Juſtice</hi> and <hi>Judgement</hi> are to run down like a ſtream throughout the Nation; and ſhall you (Right Honourable) you that are Fountains of Juſtice, be guilty of that high Injuſtice your ſelves, as not to reſign up your ſelves, and all that you are and have, to the ſervice of God, which is the debt you owe him, and the Due, he expects from you?</p>
+            <p>Fifthly, Again, Conſider this, (for I yet ſpeak to you as men) if ye do not <hi>ſerve</hi> the Lord, this is that which will de<g ref="char:EOLhyphen"/>ſtroy you: for if a thing will not ſerve its <hi>end,</hi> we caſt it away: If a <hi>Pen</hi> will not write, if a <hi>Knife</hi> will not cut, if a <hi>Needle</hi> will not ſowe, we caſt them away; for what are
+<pb n="20" facs="tcp:64311:15"/> they good for, when they do not ſerve their End?</p>
+            <p>So when we plant a <hi>Tree</hi> to bring forth Fruit, and it be<g ref="char:EOLhyphen"/>come barren, we cut it down, and make <hi>fuel</hi> of it for the fire; it doth not anſwer our end. So hath God made man to be as a <hi>Tree of Righteouſneſs,</hi> to bring forth the fruit of ſervice and obedience to him; and if he proves <hi>barren,</hi> and ſerves not God's end; Will he not ſay as Chriſt of the bar<g ref="char:EOLhyphen"/>ren Fig-tree? <hi>Cut it down, Why cumbreth it the ground?</hi> 
+               <note place="margin">Luke 13. 7.</note> Thoſe men ſhall become fuel to God's <hi>Justice,</hi> that will not be ſervants to his will and glory.</p>
+            <p>Was not this that which deſtroyed the <hi>old World?</hi> The Lord had made man to ſerve himſelf; but when the Lord ſaw that <hi>mankind</hi> was degenerated, and that they were be<g ref="char:EOLhyphen"/>come a generation of Rebels, the Lord <hi>repented</hi> that he made him; as we repent of any work we have done, when therein we do not attain our end: And hereupon it was that God deſtroyed him from off the face of the Earth.</p>
+            <p>It is a true ſaying, <hi>In nihilum valet, quod non valet in finem ſuum:</hi> That is good for nothing, that doth not avail to its end: So that as we would not be caſt away, and cut down, and deſtroyed, it doth concern us to be careful that we ſerve our end, which is to ſerve the Lord.</p>
+            <p>Sixthly, In the next place, conſider, If a man doth not ſerve the Lord, <hi>he is ſpending his money for that which is not bread, and his labour for that which ſatisfieth not.</hi> For if a man doth not ſerve the Lord, the fruit that he will reap of all his other ſervice, will not ſatisfie him. Every man ex<g ref="char:EOLhyphen"/>pects when he comes to receive the fruit of his <hi>travel,</hi> to find ſomthing that may be as <hi>bread</hi> for his foul to feed upon, and be ſatisfied; now no travel, no labour, but that which is expended in <hi>ſerving</hi> God, will bring in that fruit which may give reſt to the ſoul of man; becauſe it can fetch him in but ſome <hi>Finite</hi> good, which is too narrow to ſatisfie the ſoul.</p>
+            <p>
+               <hi>Solomon</hi> in the Book called the <hi>Eccleſiaſtes,</hi> gives us a <hi>Ca<g ref="char:EOLhyphen"/>talogue</hi> of the ſeveral <hi>vanities</hi> that he had obſerved under the Sun; and one is this, which he mentions <hi>chap.</hi> 6. <hi>verſ.</hi> 7.
+<pb n="21" facs="tcp:64311:15"/> 
+               <hi>All the labour of man is for his mouth, and yet the belly is not filled.</hi> Man labours and toyls, and yet he hath not out of all his labour, that which can fill his appetite: His appetite is capable of more then his labour can bring him in, which was a vanity he obſerved.</p>
+            <p>But now he that is in <hi>ſincerity</hi> ſerving the Lord, when he comes to enjoy the fruit, and the reward of his ſervice, he ſhall find that which will be <hi>ſatisfa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion</hi> to his ſoul; for he ſhall find God himſelf both in that ſervice, and eſpecially at the end of the ſervice.</p>
+            <p>As the <hi>good ſervant</hi> in the Goſpel that had faithfully ſerv<g ref="char:EOLhyphen"/>ed the Lord, was bid to enter into his <hi>Maſters joy:</hi> Other ſervants that are ſerving the <hi>World;</hi> and ſerving their <hi>Luſts,</hi> may enter into the joy of the <hi>creature,</hi> and the joy and pleaſure of <hi>ſin,</hi> but not into the joy of the Lord, which is only that joy that can ſatisfie the heart of man.</p>
+            <p>Laſtly, conſider this, If a man doth not ſerve the Lord, he doth not <hi>Live:</hi> I ſay again, he doth not <hi>live.</hi> It is true, take life in a large ſenſe, ſo it is the whole activity of the <hi>Reaſonable Soul,</hi> diſplaying it ſelf in the ſeveral actions of man in the world: But take life in a ſtricter and <hi>Theological</hi> ſenſe, and ſo it is the <hi>activity</hi> of the ſoul, diſplaying it ſelf by the power of the <hi>holy Ghoſt,</hi> in the ſervice of God. So that when the ſervice of God is the <hi>Sphaere,</hi> and the Spirit the <hi>Principle</hi> of the ſouls activity, this is moſt truly and proper<g ref="char:EOLhyphen"/>ly life.</p>
+            <p>The Apoſtle ſaith of the <hi>Widdow</hi> that liveth in pleaſure, <hi>She is dead while ſhe liveth.</hi>
+            </p>
+            <p>The <hi>Widdow</hi> indeed, <hi>She ſerveth God day and night,</hi> as he <note place="margin">1 Tim. 5. 6.</note> ſaid before: But ſhe that liveth in pleaſure, not ſerving God, is dead whiles ſhe liveth.</p>
+            <p>I ſuppoſe you have heard the ſtory of him that was con<g ref="char:EOLhyphen"/>verted in the latter end of his days, and therefore would have this Inſcription upon his Tomb after his death, <hi>Diu fui in Mundo, parum vixi:</hi> I have been long in the world, but I have lived but a little: For that life which man lives whiles he is ſerving himſelf, and acting his luſts, and promo<g ref="char:EOLhyphen"/>ting
+<pb n="22" facs="tcp:64311:16"/> his own carnall intereſts is ſo far differing from that life which he at firſt reveived from God in innocency, that it is quite another, and not that life, as if he that had lived the life of a man ſhould come to live the life of a beaſt: as <hi>Ne<g ref="char:EOLhyphen"/>buchadnezar</hi> did, you would ſay this is another, and not the ſame life: So that when a man is in <hi>ſincerity</hi> ſerving the Lord, this is his original life, and his only true life.</p>
+            <p>Thus I have ſpoken to you as <hi>men,</hi> and the ingagements you ſee that lie upon you, on that loweſt account are very ſtrong, to be ſerving the Lord; but thoſe that follow are yet ſtronger, wherein, I ſhall ſpeak to you:</p>
+            <p>2. Secondly, as <hi>Chriſtians.</hi> Chriſtians I mean, not in the <hi>largeſt</hi> ſence, as <hi>Baptized</hi> only into the name of Chriſt, but in a <hi>ſtricter</hi> ſence, as <hi>Baptized</hi> into his Spirit; for I believe I ſpeak to many ſuch at this time; and as ſuch, you are pecu<g ref="char:EOLhyphen"/>liarly ingaged to ſerve the Lord. For,</p>
+            <p n="1">1. Firſt, you are thoſe that the Lord hath <hi>bought; pe<g ref="char:EOLhyphen"/>culiarly</hi> bought, for though Chriſt in a more general ſence, hath <hi>purchaſed</hi> all men, yea the whole creation; for his <hi>Lordſhip</hi> and <hi>dominion</hi> over all creatures, comes in upon him upon the account of his death; yet his death, and the <hi>pur<g ref="char:EOLhyphen"/>chaſe</hi> of it, doth more peculiarly relate to his people, <hi>Being the Saviour of all men, yet eſpecially of thoſe that believe.</hi> Now the Apoſtle argues, 1 <hi>Cor.</hi> 5. laſt, concerning the be<g ref="char:EOLhyphen"/>lieving Corinthians, <hi>Ye are not your own,</hi> why? <hi>For ye are bought with a price:</hi> What then? <hi>Therefore glorify God in your body, and in your ſpirit which are the Lords.</hi>
+            </p>
+            <p>As a <hi>ſervant</hi> that is but hired, is ingaged to ſerve his <hi>Ma<g ref="char:EOLhyphen"/>ſter,</hi> how much more if <hi>bought</hi> with his money, as thoſe <hi>ſer<g ref="char:EOLhyphen"/>vants</hi> under the Law. So that the Lord hath a ſtronger <hi>title</hi> to you then others; as being not only his by the more com<g ref="char:EOLhyphen"/>mon right of <hi>Creation,</hi> but the more peculiar right of pur<g ref="char:EOLhyphen"/>chaſe: And the price that purchaſed you is not <hi>Silver and Gold,</hi> which yet are accounted the moſt precious things in nature, but the <hi>blood</hi> of Chriſt, the <hi>blood</hi> of God, which is indeed the greateſt that <hi>Heaven or Earth</hi> could yeeld. So that Gods expectation cannot but be greater upon his peo<g ref="char:EOLhyphen"/>ple
+<pb n="23" facs="tcp:64311:16"/> then upon any others, that whoever <hi>deny</hi> him <hi>ſervice,</hi> yet that they ſhould yeild it to him.</p>
+            <p>And ſo ſaith the ſame Apoſtle 2 <hi>Cor.</hi> 5. 14, 15. <hi>If one died for all then were all dead,</hi> &amp;c. <hi>that they which live ſhould not henceforth live unto themſelves, but unto him that died, and roſe again</hi>
+            </p>
+            <p>As if he ſhould ſay, we were indeed all dead, but we are purchaſed from death into life by Jeſus Chriſt; and this life now, we are not to live it to our ſelves, but unto him by whoſe death we come to live.</p>
+            <p n="2">2. As Chriſtians you are <hi>Married to the Lord.</hi> He hath <hi>divorced</hi> you from your firſt <hi>Husband,</hi> which is the <hi>Flesh,</hi> which you were in League with, and obedient to, and he hath married you to himſelf.</p>
+            <p>Now why are you thus married, the Apoſtle tels you <hi>Rom.</hi> 7. 4. <hi>We are married to him, that is raiſed from the dead, that we ſhould bring forth fruit to God:</hi> We are married to Chriſt <hi>Crucified,</hi> that we might be dead to ſin; and to Chriſt <hi>raiſed from the dead,</hi> that we might live a new life, which is, <hi>to bring forth fruit to God.</hi>
+            </p>
+            <p>As we know in <hi>Marriage,</hi> a man marries a wife, that ſhe might bring forth her fruit, as by <hi>himſelf,</hi> and not by ano<g ref="char:EOLhyphen"/>ther, ſo to <hi>himſelf,</hi> and not to another alſo: Now this is to ſerve the Lord, when the <hi>fruit</hi> we bring forth, we bring it forth not to our ſelves, but unto him.</p>
+            <p>And we know alſo by the <hi>Law</hi> of marriage the wife is not her <hi>own,</hi> but her Husbands, and <hi>hath not power over her own body, but the Husband,</hi> as the <hi>Apoſtle</hi> ſpeaks 1 <hi>Cor.</hi> 7. 4. So is the caſe here, ye that are married to the Lord, the Law of that ſpiritual <hi>Relation</hi> doth take you off from being your own, or having a power over your ſelves, ſo as to be ſerving your ſelves; and doth ingage you to be the Lords, and to be <hi>ſerving</hi> him.</p>
+            <p n="3">3. As Chriſtians, and Saints, he hath beſtowed more coſt and <hi>workmanſhip</hi> upon you then upon others, he hath for<g ref="char:EOLhyphen"/>med you for himſelf.</p>
+            <p>He hath <hi>Created</hi> you again. So ſaith St. <hi>Paul, Eph.</hi> 2. 10.
+<pb n="24" facs="tcp:64311:17"/> 
+               <hi>We are his workmanſhip;</hi> why? So are all Creatures: but he adds, <hi>Created in Chriſt Jeſus;</hi> we have a new creation in him: but to what are we created? <hi>To good works, that we ſhould walk in them,</hi> and what is that, but to be ſerving the Lord?</p>
+            <p>Why was it that the Lord did ſo expect fruit from his <hi>Vi<g ref="char:EOLhyphen"/>neyard, Iſaiah</hi> 5, and ſo wondred when he found it not, it was becauſe he had beſtowed ſo much coſt and work upon it? <hi>He had fenced it, and gathered out the ſtones of it, and planted it with the choiceſt vine,</hi> &amp;c. THEN he looked it ſhould bring grapes. Had not the Lord beſtowed ſo much <hi>workmanſhip</hi> upon it, he would not have had ſuch expecta<g ref="char:EOLhyphen"/>tion upon it. God expects better and greater things from his people then from others, that they ſhould do that which is <hi>ſingular,</hi> and ſerve him at a more <hi>Spiritual</hi> and <hi>excellent</hi> rate then others either do or can, and that upon the account of that <hi>workmanſhip</hi> he hath beſtow'd upon them.</p>
+            <p>It is ſaid 1 <hi>Kings</hi> 10. 12. That King <hi>Salomon</hi> made of <hi>Almug-trees</hi> Pſalteries and Harps for Singers, to praiſe the Lord. So all the ſpiritual carving and poliſhing that God beſtowes upon the Spirits of his people, is but to make them inſtruments of ſervice and praiſe to himſelf.</p>
+            <p n="4">4. Conſider again, Doth not the <hi>Law of Love,</hi> as you are Chriſtians, ingage you to be <hi>ſerving</hi> the Lord? How can we ſay we <hi>love</hi> Chriſt if we do not ſerve him? The Nature of love is to <hi>deny</hi> it ſelf, and <hi>overlook</hi> it ſelf, that it may ſerve the perſon beloved. <hi>Amor eſt Donum Amantis in amatum.</hi> Through love, the true lover beſtowes <hi>himſelf</hi> upon his be<g ref="char:EOLhyphen"/>loved. and if <hi>himſelf</hi> much more his ſervice. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: as that <hi>Ancient</hi> ſpeaks, <hi>it ſuffers not a man to be his own.</hi> Now can we juſtifie it to <hi>Chriſt</hi> or our own <hi>Conſciences</hi> that we love him, if we beſtow not ourſelves in a way of <hi>ſervice</hi> upon him?</p>
+            <p>What is the reaſon that men are ſo ſerving themſelves? is it not becauſe they <hi>love</hi> themſelves? It is this ſelf love that doth confine man within himſelf, and makes his <hi>charity</hi> not only, (according to the Proverb) to <hi>begin</hi> at home, but to
+<pb n="25" facs="tcp:64311:17"/> end at home alſo: But now when man doth indeed love the Lord, this ſame carries him out of himſelf, and <hi>reſigns</hi> him up to the Lord, and all that he is and hath, to be ſerviceable to the Lord.</p>
+            <p>Laſtly, How can we ſay that Chriſt reigns in our hearts, if we are not ſerving the Lord? For the great end of Chriſts reigning, is to <hi>ſubdue</hi> in man his <hi>ſelf-iſh Nature,</hi> whereby he is ſerving himſelf; that the Lord that hath right to him, may have ſervice from him.</p>
+            <p>Chriſt is made <hi>Lord</hi> of the Creation, is ſet up <hi>King</hi> of all the Earth, that he might make the Creation ſerviceable to God; that God might have the glory of his works come into him through his Son; So is he ſet up King in the heart of man, that he might ſmite thoſe <hi>Enemies</hi> that had car<g ref="char:EOLhyphen"/>ried him from God, and his ſervice; and ſubdue his <hi>Rea<g ref="char:EOLhyphen"/>ſon,</hi> his <hi>Will,</hi> his <hi>Affections,</hi> and his whole man to the <hi>obe<g ref="char:EOLhyphen"/>dience</hi> and <hi>ſervice</hi> of God. And it is an undoubted Truth, That as Chriſt's <hi>Reigne</hi> and <hi>Kingdom</hi> prevails in the heart of man, ſo doth he ceaſe from himſelf, and is ſerving the Lord.</p>
+            <p>Thus I have ſpoken to you alſo in the ſecond capacity, as Chriſtians; and now give me leave alſo to ſpeak a few words to you in that capacity wherein you meet in this Houſe, that is, as Magiſtrates, or Parliament-men.</p>
+            <p>And in this more <hi>Publique</hi> and <hi>Politique</hi> capacity you are to ſerve the Lord: For every <hi>Talent</hi> that is in our hands, we are to improve it for our Maſters uſe. For what is a Talent, but any <hi>Ability</hi> or <hi>Opportunity</hi> that is in the hand of man, whereby he may be uſeful to the praiſe and ſervice of God: And where there are more <hi>Talents,</hi> there will be the more required.</p>
+            <p>He that had but one Talent in the <hi>Parable,</hi> was ſeverely puniſh'd, becauſe he hid that one in the Earth, and improv'd it not: But ſuppoſe that he that had the five <hi>Talents,</hi> ſhould have hid them all five, Should he not have been puniſh'd five times more?</p>
+            <pb n="26" facs="tcp:64311:18"/>
+            <p> Men that have great <hi>Eſtates,</hi> great <hi>Authority,</hi> great <hi>In<g ref="char:EOLhyphen"/>tereſts,</hi> and act in a wider <hi>Sphaere</hi> then other men; as they have greater advantages in their hand, ſo their ſin, and their <hi>puniſhment</hi> will be greater, if they (I do not ſay abuſe them, for the <hi>unprofitable Servant</hi> did not ſo, but) neglect them, and improve them not.</p>
+            <p>The Magiſtrates of the world, <hi>Kings, and Judges of the Earth,</hi> are particularly called upon to ſerue the Lord, in the Text; and to <hi>Kiſs the Son</hi> in the next verſe; For what<g ref="char:EOLhyphen"/>ever power they have, even as ſuch, is derived from Chriſt the <hi>Mediator; By whom Kings Reigne, and Princes Decree Judgement.</hi> For Chriſt is not only King of his <hi>Church,</hi> but King of the <hi>VVorld;</hi> and ſo the powers of the world are derived from him, and are to be ſubordinate and ſubjected to his honour; and (ſo far as they are concerned) to the Affairs of his Kingdom in the Earth.</p>
+            <p>I intend not to enter that perplex controverſie of the <hi>Ma<g ref="char:EOLhyphen"/>giſtrate</hi>'s power in matters of Religion, about which I find a double <hi>Extream;</hi> The one in that opinion of <hi>ERAST<g ref="char:V">Ʋ</g>S,</hi> that would have no other Government in the Church, but that of the Civil Magiſtrate, and his power to interpoſe, e<g ref="char:EOLhyphen"/>ven in the <hi>Intrinſick</hi> affairs thereof.</p>
+            <p>The other is that of the <hi>Jeſuites,</hi> whoſe <hi>Maxime</hi> is, <hi>Magiſtratus nil ſtatuat de Religione.</hi> And I have heard it aſſerted, That nothing of the firſt Table, or of the <hi>Souls</hi> of men, doth at all fall under his cognizance: which I humbly conceive to be an Extreme on the other hand: For without queſtion, ſomthing may and ought to be done by the Magi<g ref="char:EOLhyphen"/>ſtrate, to the befriending of the Goſpel, and its <hi>progreſs</hi> in the world.</p>
+            <p>I ſhall only ſpeak of thoſe things which I think moſt ſo<g ref="char:EOLhyphen"/>ber men will grant; becauſe it is a tender point.</p>
+            <p n="1">1. Without queſtion he is to do nothing to hinder the preaching and ſpreading the Goſpel within his Dominion: For the true Goſpel hath a right to be preached in all Nati<g ref="char:EOLhyphen"/>ons. The Apoſtles had a <hi>Commiſſion</hi> from him that was <hi>King of kings, and Lord of lords,</hi> To <hi>Go and teach all Nati<g ref="char:EOLhyphen"/>ons;</hi>
+               <pb n="27" facs="tcp:64311:18"/> and therefore they might by vertue of their Royal Commiſſion from him, demand of the ſubordinate Kings and Rulers of the Earth a free and un-interrupted paſſage through their ſeveral <hi>Dominions,</hi> for the publiſhing of this Goſpel, in any part of them. And they were not to be ac<g ref="char:EOLhyphen"/>counted <hi>Intruders,</hi> in any <hi>Nation,</hi> or any <hi>City,</hi> which they might enter into for the diſcharge of their Commiſſion.</p>
+            <p n="2">2. Becauſe the Goſpel hath ſuch a <hi>Right,</hi> Magiſtrates ought not only to ſuffer it, but to remove outward Obſtru<g ref="char:EOLhyphen"/>ctions that may lie in its way, and that may hinder the paſ<g ref="char:EOLhyphen"/>ſage and progreſs thereof: And he doth but that which is to have a free paſſage through the world.</p>
+            <p>So that if any ſhould ſhut their dores againſt the preach<g ref="char:EOLhyphen"/>ing of it, he may <hi>command</hi> them to be opened; If any ſhould lay <hi>hands</hi> upon the Diſpenſers of it, to reſtrain them in their work, he may command that they be ſet at liberty; if any <hi>diſturb</hi> and <hi>interrupt</hi> them in their work, he may forbid all ſuch diſturbances: Yea, if the people will not come to hear it preached, but be ſpending their time in drinking and re<g ref="char:EOLhyphen"/>velling, and the like, when they ſhould be attending upon it, he may command them to give their attendance upon it, at leaſt in one place or another; eſpecially ſuch as own the Chriſtian profeſſion, as we do generally in this Nation.</p>
+            <p n="3">3. He is not only to remove obſtructions, but he ought to countenance and encourage the true <hi>Preachers</hi> and <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> of the Goſpel in their <hi>preaching,</hi> and the <hi>Profeſſors</hi> of the Goſpel in their <hi>profeſſion.</hi> He is to take them under the wing of his Government, and to protect them in their juſt <hi>Liberties</hi> againſt all oppoſers; and to furniſh them with con<g ref="char:EOLhyphen"/>venient places for their meetings, and publique Worſhip; and to provide what <hi>maintenance</hi> may be neceſſary for the furtherance of the preaching the Goſpel, and ſpreading of it, as <hi>Conſtantine</hi> did in his time. And all this he is to do, becauſe of that <hi>Supream</hi> Right that the Goſpel hath from him that is the King of the Earth, to be publiſhed in the world.</p>
+            <p n="4">4. But laſtly, He may alſo upon the ſame account inhibite
+<pb n="28" facs="tcp:64311:19"/> the divulging and propagating of any principles, opinions, or <hi>religion</hi> ſo called, which will directly tend to the under<g ref="char:EOLhyphen"/>mining and ſubverting of this Goſpel: For it is only the true Goſpel that hath a right to be propagated, and received in the world. So that the Magiſtrate is under no ingagement to any <hi>Religion,</hi> but the true <hi>Religion;</hi> any Goſpel, but the true Goſpel, any <hi>profeſſion</hi> but the true <hi>profeſſion;</hi> for that only hath a right, as I ſaid, to be propagated and en<g ref="char:EOLhyphen"/>tertained.</p>
+            <p>So that if any man will come and preach another Goſpel, then what the Apoſtles, had a commiſſion from Chriſt to preach, and will preach ſuch <hi>Doctrine</hi> as will tend to the <hi>undermining</hi> of it. The Magiſtrate is under no ingagement to give to that, liberty; much leſſe countenance, but ra<g ref="char:EOLhyphen"/>ther to reſtrain it, becauſe it is not that Goſpel, and that true revelation of the mind of God, which he hath decreed to be entertained of men.</p>
+            <p>If a man will come and preach up Paganiſme, Turciſme, Judaiſme, Papiſme; yea and to go farther, Pelagianiſme, Socinianiſme, or Arminianiſme, in the groſſer points of it, and claim liberty, and protection from the <hi>Magiſtrate</hi> in ſo doing, let him ſhew by what right he would claim this li<g ref="char:EOLhyphen"/>berty: for where can he ſhew that ever any man had a com<g ref="char:EOLhyphen"/>miſſion from Chriſt to preach up theſe religions or opinions in the world.</p>
+            <p>I would be underſtood to ſpeak only of thoſe opinions, that do undermine the true Goſpel, and that way of truth which God hath revealed for the ſalvation of the world, and which may be accounted in the number of thoſe <hi>Hereſies</hi> that are damnable, and not of leſſer miſtakes either in point of <hi>Doctrine</hi> or <hi>Diſcipline</hi> wherein the godly both have and may differ: for in things that are doubtful, or not fully certain, there ought to be a forbearance, leaſt the truth be reſtrai<g ref="char:EOLhyphen"/>ned in ſtead of errour.</p>
+            <p>Neither have I pleaded for the puniſhing of any mans perſon meerly, becauſe he holds this or that opinion; what I have ſaid is that the Magiſtrate is under no ingagement to
+<pb n="29" facs="tcp:64311:19"/> errour as errour, or to give liberty to the ſpreading of thoſe opinions, that raſe the Foundation of our Chriſtian Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>
+               <hi>Object.</hi> 1. But there are ſuch <hi>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntroverſies</hi> in religion, that we know not how to be ſure what is a truth, or what is errour; and ſo we may oppoſe <hi>truth</hi> in ſtead of errour, and make way to errour in ſtead of <hi>truth.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Are we not ſure that the <hi>Christian Religion,</hi> is the true Religion: if we are not ſure of that we leave our ſoules in a <hi>deſperate</hi> hazard, and lie ſadly open to the ſnares and temptations of the <hi>Devil,</hi> and of men <hi>Cunning</hi> to de<g ref="char:EOLhyphen"/>ceive.</p>
+            <p>But if you ſay, you are ſure the <hi>Chriſtian Religion</hi> is the true Religion, may you not then be ſure alſo of thoſe <hi>great</hi> truths, which are as the <hi>pillars</hi> upon which it ſtands? May we not be ſure that <hi>Jeſus Chriſt</hi> is the true <hi>Meſſiah,</hi> and that he was really in the <hi>nature</hi> of man, and that in that nature he ſuffered death for the <hi>Redemption</hi> of the world?</p>
+            <p>May we not be ſure, that he is riſen from the dead, and lives for ever, making interceſſion in that nature wherein he died? and that he will come again to judg the world?</p>
+            <p>May we not be ſure that the <hi>Scrip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ures</hi> are the written word of God, and the <hi>rule</hi> of our Faith and obedience, by which all light in the hearts or Doctrines of men is to be examined?</p>
+            <p>Again, may we not be ſure that we are <hi>juſtified</hi> by Faith, and not by the works of the Law?</p>
+            <p>May not we be ſure, that there ſhall be a <hi>Reſurrection</hi> of mens bodies at the laſt day, and that ſome ſhall riſe to eter<g ref="char:EOLhyphen"/>nal life, and others to go into <hi>everlaſting</hi> fire, &amp;c.</p>
+            <p>If we cannot be ſure of ſuch things as theſe, my preaching may be vain, and your Faith alſo vain.</p>
+            <p>
+               <hi>Object.</hi> But the Magiſtrate is not to determine what is truth and what is errour.</p>
+            <p>
+               <hi>Anſw.</hi> 1. I do not ſay he is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o determine, yet I ſay he is to be inſtructed, as the Text ſpeaks, and to know which is the true Religion, and the great truths upon which it is
+<pb n="30" facs="tcp:64311:20"/> built, and when he knows them, he is to give freedom, countenance, and what furtherance he may to them. And if ſome Magiſtrates have through ignorance, or prejudice, turned their power againſt the truth; yet it was their duty to have improved their power for it in thoſe wayes, and up<g ref="char:EOLhyphen"/>on that ground that I before mentioned. His ignorance and inability to diſcharge his duty, doth not at all exempt him from it.</p>
+            <p>Thus I have ſhewn briefly, and I hope clearly, wherein the Magiſtrate may befriend the Goſpel, and the true Reli<g ref="char:EOLhyphen"/>gion; and ſo upon that account be ſerving the Lord.</p>
+            <p>There are other things alſo of another nature, wherein he may ſerve the Lord;</p>
+            <p>As in ſuppreſſing open vice, and wickedneſs, putting down thoſe <hi>houſes</hi> that are the <hi>nouriſhers</hi> and maintainers of them, I mean diſorderly <hi>Ale-houſes</hi> and <hi>Taverns,</hi> whereof we have yet too too great a ſtore every where. Something I perceive hath been done upon that account in the Coun<g ref="char:EOLhyphen"/>tries, and I could wiſh they were a little more <hi>narrowly</hi> lookt after in the City.</p>
+            <p>God had a ſad <hi>controverſie</hi> with <hi>Eli,</hi> though a good man, that when his Sons did wickedly, he reſtraind them not: He <note place="margin">1 Sam. 3. 13.</note> was a <hi>Magiſtrate,</hi> and though he could not change their hearts, yet he might have reſtraind their practiſe. And I think this will ſomewhat befriend the Goſpel, and the paſ<g ref="char:EOLhyphen"/>ſage of it among us.</p>
+            <p>And then as for other things wherein you may ſerve the Lord, as <hi>Enacting</hi> righteous Laws, doing juſtice, and judg<g ref="char:EOLhyphen"/>ment, relieving the oppreſt, <hi>eſtabliſhing</hi> the Liberties of the Nation, ſo far as may conſiſt with the juſt liberties of the people of God, and the <hi>ſecurity</hi> of that cauſe, wherein the godly of the Nation have been, and yet are ſo deeply inte<g ref="char:EOLhyphen"/>reſted, that our motion may not be <hi>Retrograde,</hi> and we looſe the things that we have wrought.</p>
+            <p>As alſo for the carrying on your affairs at Sea, and the war wherein you are ingaged with Spain, wherein you would ask <hi>counſel</hi> from Heaven this day, it is not for me to
+<pb n="31" facs="tcp:64311:20"/> adviſe any thing in theſe things, they being ſo much out of my <hi>ſphaere;</hi> I ſhall only ſay, The Lord direct you.</p>
+            <p>Yet only this I ſhall ſay, that the <hi>Monarchy</hi> you have to do againſt, is deeply defiled with blood, and with that blood which hath the loudeſt cry; and when its iniquity is at the full, and its defence taken off, it ſhall be, as <hi>Caleb</hi> ſaid of the Canaanites, but as <hi>bread</hi> for thoſe Inſtruments that God ſhall employ to take vengeance.</p>
+            <p>Only let me bold humbly to adviſe you, as that which is of the greateſt <hi>concernment</hi> to the ſucceſs of your Affairs, That you would <hi>Intereſt</hi> God as much as may be in them all: For ſeeing you are men that do pretend to God in what you do, and have his <hi>Name</hi> upon you, you are to expect your ſucceſs to come in, not in a common way of <hi>Providence,</hi> but in a way of prayer, faith, and ſincere ſerving him in all your undertakings. This is the third Inference.</p>
+            <p>Fourthly, I ſhall infer ſomthing by way of <hi>Tryal</hi> in a word or two, that we may a little know our own hearts, and whom we are ſerving whether our ſelves, or the Lord. You may know it,</p>
+            <p>Firſt by this. If you ſerve the Lord in what you do, then you expect your <hi>Reward</hi> principally from him: for the thing or the perſon that man is ſerving, from the ſame doth he expect his reward, He that is ſerving <hi>man,</hi> expects his re<g ref="char:EOLhyphen"/>ward from <hi>man;</hi> He that is ſerving <hi>mammon,</hi> from <hi>mammon</hi> he looks for his reward: And he that is ſerving the <hi>Lord,</hi> he expects alſo his chief reward from the <hi>Lord:</hi> And the <hi>ſence</hi> of that reward which he ſhall have from God, is the motive that quickens him more in his work, then any he may receive from man.</p>
+            <p>Secondly, He that ſerves the Lord in what he doth, hath his eye upon him as his <hi>ultimate</hi> end. He that looks no far<g ref="char:EOLhyphen"/>ther then himſelf, this man is ſerving himſelf; let his work be what it will be, as I ſaid before. But when the Lord is <hi>Finis operis,</hi> the end of the work; or at leaſt <hi>Finis operantis,</hi> the end of him that worketh, then is the Lord ſerved.</p>
+            <p>Laſtly, He that ſerves the Lord, he endeavours to <hi>manage</hi>
+               <pb n="32" facs="tcp:64311:21"/> his work ſo, as it may be moſt ſerviceable to him. If a <hi>Mi<g ref="char:EOLhyphen"/>niſter</hi> uprightly ſerve the Lord, he will preach the Word, and manage the whole courſe of his Miniſtry, not in ſuch a way as may be moſt pleaſing to men, but moſt to the good of ſouls, and the honour and ſervice of Chriſt: And ſo I may ſay of Magiſtrates, and of private Chriſtians; if they are ſerving the Lord, they then will ſo endeavour to act, and ſo ſteer the whole courſe of their life, as that the Lord may be moſt ſerved and honoured by them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>5</label> The laſt thing I infer from the Doctrine, is, encourage<g ref="char:EOLhyphen"/>ment and comfort to the <hi>good and faithful ſervant.</hi> The ſer<g ref="char:EOLhyphen"/>vice of the Lord, though we may ſuffer reproach in it, yet it is the moſt honourable; and loſs in it, yet it is the moſt gainful; and pain and trouble in it, yet it is the moſt plea<g ref="char:EOLhyphen"/>ſant ſervice in the world,</p>
+            <p>Ah (much honoured Senators) you that are in the inte<g ref="char:EOLhyphen"/>grity of your hearts ſerving the Lord, beſides all that peace and pleaſure that you may have at preſent, there is a day coming, wherein all your ſervice and labour of love will be returned into your Boſoms an hundred fold.</p>
+            <p>Oh how <hi>honourably</hi> doth that man live, and how bleſſedly ſhall that man die, that hath been doing the Lord's work in the world!</p>
+            <p>
+               <hi>Bleſſed are the dead that die in the Lord,</hi> &amp;c. <hi>for they reſt from their labours, and their works follow them.</hi> Rev. 14. 13. their works are ceaſed as to the labour of them, but follow them, and will be with them for ever, as to the reward of them.</p>
+            <p>The rich mans <hi>riches</hi> ſhall not follow him, the voluptuous mans <hi>pleaſures</hi> ſhall not follow him, nor the <hi>honours</hi> of the honourable ſhall not follow them; but the faithful ſervants works ſhall follow him, and be with him for ever.</p>
+            <p>It is ſaid of <hi>David, that after he had ſerved his generation according to the will of God, he fell aſleep,</hi> Acts 13. 36. How ſweetly may that man lay <hi>himſelf</hi> down in the ſleep of death, that hath in his life been ſerving his <hi>generation</hi> according to the will of God.</p>
+            <pb n="33" facs="tcp:64311:21"/>
+            <p> The <hi>Lord</hi> himſelf will give <hi>Teſtimony</hi> to ſuch a man, as he doth to the faithful ſervant in the <hi>Parable; VVell done thou good and faithful ſervant.</hi> For a Magiſtrate, for a Miniſter, <note place="margin">Mat. 25. 21.</note> for a Chriſtian to have an <hi>Euge</hi> from Chriſt; for the Lord himſelf to give an <hi>honourable Teſtimony</hi> to a man, and his ſervice, is the trueſt honour, and the higheſt commendati<g ref="char:EOLhyphen"/>on. And though he be but a ſervant, yet his Maſter will make him ſharer with himſelf, and that in the beſt thing which he hath, which is his joy; <hi>Enter thou into thy Maſters joy:</hi> And is not this <hi>enough</hi> to encourage you?</p>
+            <p>But yet, if a <hi>bigger word</hi> then this can be ſpoken, we have an expreſſion or two falling from Chriſt's own mouth, and recorded by <hi>Luke,</hi> chap. 12. which I cannot think of without wonder.</p>
+            <p>The one you find in the 43, 44. verſes, <hi>Bleſſed is that ſervant whom the Lord when he cometh ſhall find ſo doing. Of a truth I ſay unto you, that he will make him Ruler over all that he hath.</hi> Can any thing be ſpoken more? Yes, in ver. 37. we have a <hi>greater</hi> word then this, which I durſt not have ſpoke, if Chriſt had not ſpoken it himſelf: <hi>Bleſſed are thoſe ſervants whom the Lord when he cometh ſhall find watching; Verily I ſay unto you, he ſhall gird himſelf, and make them to ſit down to meat, and will come forth and ſerve them.</hi>
+            </p>
+            <p>In the former expreſſion he ſaith, That all that he hath ſhall be at their ſervice; and that is very much: But in this latter, he ſaith a great deal more; That he himſelf will gird himſelf, and put himſelf as into the poſture of a ſervant, and <hi>come forth and ſerve them.</hi> And now, <hi>Beloved,</hi> who would not be the Lord's ſervant.</p>
+            <p>And thus I have ſpoken to the matter of the counſel here given to the <hi>Kings</hi> and <hi>Judges</hi> of the Earth, which is, to <hi>Serve the Lord.</hi>
+            </p>
+            <p>I ſhall next in a word ſpeak to the <hi>manner,</hi> how the Lord is to be ſerved; and that the Text ſaith, is <hi>with Fear. Serve the Lord with fear.</hi>
+            </p>
+            <pb n="34" facs="tcp:64311:22"/>
+            <p> Though they are <hi>Kings,</hi> and <hi>Judges,</hi> and are a Terror to others, yet even they muſt ſerve the Lord with <hi>fear;</hi> and though they are men that uſually have the greateſt <hi>defence</hi> about them, yet lie as open and naked to God as any others, and therefore muſt <hi>ſerve</hi> with fear.</p>
+            <p>Queſt. <hi>But what fear is this they are to ſerve with? and of what?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For the former queſtion, the <hi>Apoſtle</hi> reſolves it in that parallel Scripture, <hi>Heb.</hi> 12. 28. <hi>Let us have grace, whereby we may ſerve God with Reverence, and Godly Fear:</hi> There is a baſe ſlaviſh fear that makes a man run from God, and have hard thoughts of him, and binds him up from ſer<g ref="char:EOLhyphen"/>ving him.</p>
+            <p>As the <hi>unprofitable ſervant,</hi> if he ſpeak his heart, was bound up from employing his <hi>Talent</hi> by this baſe fear: <hi>Matth.</hi> 25. 24, 25. <hi>Lord,</hi> ſaith he, <hi>I knew thee, that thou art an hard man, reaping where thou haſt not ſown,</hi> &amp;c. <hi>and I was afraid.</hi>
+            </p>
+            <p>But the <hi>fear</hi> wherewith we are to ſerve God, is an inge<g ref="char:EOLhyphen"/>nuous Son-like fear: Such a fear as</p>
+            <p n="1">1. Springs from Love, and that <hi>Honourable</hi> eſteem we have of God, which in <hi>Hebr.</hi> 12. is called Reverence: which Moraliſts tell us, is an affection compounded of love and fear; and is wrought in the heart by a due ſenſe of that <hi>greatneſs</hi> and <hi>goodneſs</hi> which is in God.</p>
+            <p n="2">2. Which quickens a man in <hi>ſervice.</hi> For this true Fear, is a ſtrong <hi>Incentive</hi> to action. The Apoſtle to quicken thoſe dull <hi>Hebrews</hi> in their travel to the true Reſt, doth endeavour to poſſeſs them with this holy Fear, <hi>Heb.</hi> 4. 1. <hi>Let us therefore fear, leſt a promiſe being left us of entring into his reſt, any of us ſhould ſeem to come ſhort of it.</hi> Security rocks the ſoul aſleep, but <hi>Fear</hi> awakens it, and ſets it a work.</p>
+            <p>
+               <hi>Queſt.</hi> 2. But what are they to be in fear of?</p>
+            <p>
+               <hi>Anſw.</hi> The verſe after this <hi>Text</hi> doth in <hi>general</hi> tell us
+<pb n="35" facs="tcp:64311:22"/> and that is, the <hi>Lords</hi> diſpleaſure, <hi>leſt he be angry, and you periſh</hi> ſaith the Text, and that, <hi>if his wrath be kindled but a little,</hi> what then if he ſhould ſtir up all his wrath? as the <hi>Pſalmiſt</hi> ſpeakes.</p>
+            <p>This <hi>fear</hi> is to poſſeſſe every mans heart, and is to run through all the <hi>Acti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> of his life.</p>
+            <p n="1">1. For natural actions, as eating, drinking, &amp;c. we are to manage theſe with an holy fear of diſpleaſing the Lord.</p>
+            <p n="2">2. For <hi>Civil</hi> and <hi>Political</hi> actions, as buying, ſelling, tra<g ref="char:EOLhyphen"/>ding and commerce in the world; him we are alſo to fear leaſt we diſpleaſe him.</p>
+            <p n="3">3. As for <hi>Religious</hi> actions, praying, or hearing, &amp;c. we are to mannage theſe with this holy fear, leaſt we diſpleaſe the Lord by formality, <hi>diſtraction</hi> of thoughts, hypocriſy, <hi>careleſneſs,</hi> or the like.</p>
+            <p>But eſpecially <hi>Magiſtrates,</hi> for they are the perſons par<g ref="char:EOLhyphen"/>ticularly ſpoken to in the Text. They are to mannage the whole <hi>courſe</hi> of their Government with this fear of diſplea<g ref="char:EOLhyphen"/>ſing the Lord. They are all <hi>ſubordinated</hi> to him, and are to give up their accounts to him, and therefore are to be ex<g ref="char:EOLhyphen"/>ceeding careful that nothing in the <hi>conſtitution,</hi> or courſe of their Government be diſpleaſing unto him. And they do diſpleaſe Chriſt.</p>
+            <p n="1">1. When they <hi>oppoſe</hi> his <hi>intereſt</hi> in the world, when Chriſt hath a work upon the <hi>wheeles</hi> for the advance of his Kingdom, the eſtabliſhing of <hi>Jeruſalem,</hi> &amp;c. then, when they oppoſe their <hi>power</hi> to this intereſt, then they diſpleaſe him. As when <hi>Maximilian</hi> the Emperour, and ſome other <hi>Princes</hi> oppoſed Luther in that great work he was upon.</p>
+            <p n="2">2. Secondly, when they <hi>neglect</hi> his intereſt, when they do not come forth to <hi>ſerve</hi> it with what ever ability, or op<g ref="char:EOLhyphen"/>portunity is in their hand: but are wholly <hi>ſwallowed up</hi> into a more private intereſt of their own. As <hi>Meroz</hi> was curſed not coming forth to help the Lord, <hi>Judg.</hi> 5. 2. 3.</p>
+            <p n="3">3. When they <hi>ſubordinate</hi> his intereſt to their own, when they are carrying on an <hi>intereſt</hi> of Chriſt, but it is that they
+<pb n="36" facs="tcp:64311:23"/> may ſerve ſome private end of their own upon it: when they ingraft a ſelfiſh deſign upon Chriſts ſtock, that it may the better thrive. And thus did <hi>Jehu,</hi> in taking <hi>vengeanoe</hi> upon the falſe Prophets of <hi>Baal,</hi> and <hi>Ahabs</hi> houſe, which was but to confirm the Kingdom to himſelf, 2 <hi>Kings</hi> 10.</p>
+            <p n="4">4. When they deal <hi>injuriouſly</hi> with his Saints, then they do highly diſpleaſe him: Though they are a poor deſpiſed people in the world, yet their <hi>Redeemer</hi> is mighty, and when they cry, he will hear them.</p>
+            <p>I find two <hi>principal</hi> places in the propheſie of <hi>Iſaiah,</hi> wherein the Lord is preſented in a <hi>ſtrange</hi> heat of wrath; the one is 34. <hi>Iſaiah</hi> the beginning of it.</p>
+            <q>
+               <l>
+                  <hi>The indignation of the Lord is upon all Nations, and his fury upon all their Armies,</hi> verſe 2.</l>
+               <l>
+                  <hi>Their mountains ſhall be melted with blood,</hi> verſ. 3.</l>
+               <l>
+                  <hi>And the Hoſt of Heaven ſhall be diſſolved,</hi> verſ. 4.</l>
+               <l>
+                  <hi>And my ſword ſhall be bathed in Heaven.</hi> verſ. 5.</l>
+               <l>
+                  <hi>And the ſword of the Lord is filled with blood,</hi> verſ. 6.</l>
+            </q>
+            <p>Now if you ask me, <hi>What means the heat of this great wrath?</hi> he tels you verſ. 8. <hi>It is the day of the Lords ven<g ref="char:EOLhyphen"/>geance, and the yeer of recompence for the controverſie of Sion.</hi>
+            </p>
+            <p>The other place is 63. <hi>Iſaiah</hi> beginning. Where the Lord is ſet forth in his <hi>red Apparel,</hi> and his <hi>garment died in blood,</hi> and treading the <hi>Wine-preſſe</hi> of wrath: And the reaſon of all this you read in the 4. verſ. <hi>For the day of Vengeance is in mine heart, and the yeer of my redeemed is come.</hi>
+            </p>
+            <p>We cannot touch God in a tenderer part, then in his people, for they are the <hi>Apple of his eye.</hi>
+            </p>
+            <p>
+               <hi>Juſtin Martyr</hi> in his <hi>Apology</hi> for the <hi>Chriſtians,</hi> tells the <hi>Roman Emperours,</hi> that whiles they perſecuted the Saints, the Empire was afflicted with Floods, Earth-quakes, Pe<g ref="char:EOLhyphen"/>ſtilence, &amp;c. It was not their tolerating, but their perſecu<g ref="char:EOLhyphen"/>ting them, that brought thoſe calamities upon them. No<g ref="char:EOLhyphen"/>thing will ſooner bring down wrath upon a people then this.</p>
+            <pb n="37" facs="tcp:64311:23"/>
+            <p> And on the other hand, to protect and <hi>Cheriſh</hi> the Saints, is that which God takes <hi>kindly</hi> at the hands of <hi>Magiſtrates:</hi> and which is likely, eminently to <hi>conduce</hi> to the <hi>proſperity</hi> of their affaires, according to the pro<g ref="char:EOLhyphen"/>miſe in the 122. <hi>Pſal.</hi> 6. <hi>They ſhall proſper that love thee.</hi> Only I would be underſtood as ſpeaking of <hi>true Saints,</hi> and they <hi>walking</hi> as Saints.</p>
+            <p>But I haſten to a Concluſion. And therefore I come now to the laſt <hi>part</hi> of the Text, as I divided it at the beginning, and that is the <hi>Argument</hi> whereby this Coun<g ref="char:EOLhyphen"/>ſel is enforced, (for ſo I ſhall make uſe of it) upon the Kings and Judges of the Earth; This will be their <hi>Wiſ<g ref="char:EOLhyphen"/>dom</hi> and their underſtanding, <hi>Be wiſe now therefore,</hi> or, <hi>And now, be wiſe O ye Kings, be inſtructed ye that Judg the Earth.</hi>
+            </p>
+            <p>God having before ſhewd them, that their oppoſition againſt his Son, would be their undoing, and <hi>break them to pieces,</hi> he therefore doth adviſe them, as they would appear to be wiſe men, and men well inſtructed to ſerve him; whereby they ſhould ſave themſelves from that deſtruction that elſe would unavoidably fall upon them.</p>
+            <p>Every man will be pretending to wiſdom, and it is a thing ſo deſirable, that even <hi>fools</hi> that have no wiſdom, yet they will be wiſe in their own conceit. <hi>O Sapientia,</hi> as he ſaid, <hi>ſed ubi es?</hi> but where is <hi>wiſdom</hi> to be found?</p>
+            <p>The <hi>Graecians</hi> they pretended to it; 1 <hi>Cor.</hi> 1. 22. <hi>The Greeks ſeek after wiſdom,</hi> they had their wiſe men, whom they called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and they loved to be applauded with a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> at the end of their <hi>Orations,</hi> and who hath not heard of their ſeven Wiſe men?</p>
+            <p>The <hi>Romans</hi> they pretended to it, as the Apoſtle ſpeaks 1 <hi>Rom.</hi> 22. <hi>Profeſſing themſelves to be wiſe, they became fools:</hi>
+            </p>
+            <p>The <hi>Perſians</hi> they pretended to it, and they had their <hi>Wiſe men</hi> among them, who were called <hi>Magi.</hi>
+            </p>
+            <pb n="38" facs="tcp:64311:24"/>
+            <p> The <hi>Jews</hi> they had their <hi>Wiſe men,</hi> whom they called <hi>Chacamim;</hi> and the Phariſees affected to be called <hi>Rabbi, Rabbi,</hi> which i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as much as to ſay, a man of much lear<g ref="char:EOLhyphen"/>ning, or wiſdom.</p>
+            <p>But if you would know where true wiſdom lies, the <hi>Text</hi> tels us, it lies in <hi>ſerving</hi> God. The <hi>Veyn</hi> of True Wiſdom runs all along in the <hi>ſervice</hi> of God. This is wiſ<g ref="char:EOLhyphen"/>dom, though not in the worlds <hi>ballance,</hi> yet in the <hi>Bal<g ref="char:EOLhyphen"/>lance</hi> of the Sanctuary.</p>
+            <p>The Oracle of <hi>Apollo</hi> was once conſulted to ſhew who was the wiſeſt man. But it is only Gods Oracle that can reſolve this; and that tells you every where it is the god<g ref="char:EOLhyphen"/>ly man, the man ſerving God.</p>
+            <p>And here firſt I ſhall ſhew how it is the wiſdom of <hi>men</hi> in general, and then particularly of <hi>Magiſtrates,</hi> to ſerve the Lord. Firſt in general.</p>
+            <p>1. Is it not wiſdom for a man to be <hi>ſeeking</hi> his own <hi>happineſs;</hi> and to depart from that evil which would de<g ref="char:EOLhyphen"/>ſtroy him? We ſee this <hi>Inſtinct</hi> of wiſdom planted in the <hi>Nature</hi> of every creature, whereby it gathers into it ſelf that good that is <hi>con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ucible</hi> to its happineſs, and ex<g ref="char:EOLhyphen"/>pels and avoids, what it may, that evil which is contrary, and ſo <hi>deſtructive</hi> to it.</p>
+            <p>Now he that is <hi>ſincerely</hi> ſerving the Lord, he is the only man that is <hi>purſuing</hi> that good that is mans true happineſs, which is <hi>God himſelf;</hi> and avoiding and expel<g ref="char:EOLhyphen"/>ling that <hi>evil</hi> which would deſtroy him, and that is ſin: and the conſequences of it. So that he is truly ſerving himſelf, that ſerves the Lord.</p>
+            <p>As <hi>Job</hi> in his 28. Chapter brings his diſcourſe about wiſdom to this concluſion, in the laſt verſe, <hi>Behold the fear of the Lord, that is wiſdom, and to depart from evil that is underſtanding.</hi>
+            </p>
+            <p>And <hi>Salomon</hi> a man well able to judg of wiſdom and folly, gives us a character of both <hi>Prov.</hi> 22. 3. <hi>A pru<g ref="char:EOLhyphen"/>dent man foreſeeth the evil, and hideth himſelf; the wicked paſſe on, and are puniſhed.</hi>
+            </p>
+            <pb n="39" facs="tcp:64311:24"/>
+            <p> 2. Is it not wiſdom to beſtow a mans ſervice and labour where it will turn moſt to his account? A wiſe man will not run and ſweat to catch a <hi>Butterfly;</hi> He will ſee whe<g ref="char:EOLhyphen"/>ther that which he toyls and travels for will countervail his pains: For, <hi>what profit</hi> (ſaith the wiſe man,) <hi>hath he that hath laboured for the wind? Eccleſ.</hi> 5. 16. Now no <hi>labour</hi> doth bring in ſuch a rich <hi>Revenue,</hi> doth ſo turn to a mans account, as that which is <hi>beſtowed</hi> upon the ſervice of God.</p>
+            <p>Again, Is it not wiſdom for a man to improve his ſea<g ref="char:EOLhyphen"/>ſon? <hi>There is a ſeaſon for every thing under the ſun,</hi> ſaith <hi>Solomon;</hi> and the <hi>wiſe</hi> man watcheth his ſeaſon: The wiſe <hi>Merchant</hi> will obſerve his ſeaſon; and the wiſe <hi>Phyſici<g ref="char:EOLhyphen"/>an</hi> his ſeaſon; and the wiſe <hi>Stateſman</hi> his, and the wiſe <hi>Husbandman</hi> his; yea the <hi>Ant</hi> doth embrace its ſeaſon, the <hi>Swallow,</hi> the <hi>Crane,</hi> the <hi>Stork,</hi> they do all obſerve their ſeaſons: And therefore the Apoſtle exhorts the E<g ref="char:EOLhyphen"/>pheſians, <hi>Eph.</hi> 5. 15. <hi>To walk circumſpectly, not as fools, but as wiſe, redeeming the time,</hi> or the ſeaſon.</p>
+            <p>Now mans ſeaſon it is in general the fruit of his being in this world, or that day of grace that is in his hand, which he is to make uſe of, to get <hi>acquaintance</hi> with God, and to <hi>lay up for himſelf a good foundation againſt the time to come:</hi> which no man is doing, but he alone that is faithfully ſerving God.</p>
+            <p>4. It is wiſdom to ſubject a man's ſelf to that <hi>Lord,</hi> that hath a true <hi>Right</hi> to him; to whom of <hi>Right</hi> he owes ſubjection and ſervice. And a wiſe man will not willingly ſubject himſelf to any that upon no account hath Right to him: A ſervant willingly ſubjects him<g ref="char:EOLhyphen"/>ſelf to his own Maſter, and a child to his own Fa<g ref="char:EOLhyphen"/>ther, for they ſee they have a Right to them; but not to ſtrangers.</p>
+            <p>Now he that is ſerving the Lord, he ſubjects himſelf to that <hi>Maſter</hi> that hath a true Right to his ſervice: where<g ref="char:EOLhyphen"/>as now carnal men ſubject themſelves to ſtrange Lords,
+<pb n="40" facs="tcp:64311:25"/> Satan, and fleſhly luſts, <hi>&amp;c.</hi> that have no <hi>Right</hi> at all to Rule over them; which as it is their ſin, ſo it is their folly alſo.</p>
+            <p n="5">5 It is wiſdom to make proviſion for the future: a fool only looks at what is juſt before him; but a wiſe man is able to ſee a far off. Now he that looks beyond this, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, this preſent time, and is making proviſion for eternity, this is the wiſe man; and no man doth this, but he that in good earneſt is ſerving the Lord.</p>
+            <p>But then eſpecially it is the wiſdom of Magiſtrates to ſerve the Lord; and I will ſhew it only in theſe two par<g ref="char:EOLhyphen"/>ticulars, 1. It will be their ſtability. And 2. Their Proſperity.</p>
+            <p n="1">1. This will be their <hi>Stability.</hi> Nothing doth more eſtabliſh Common-wealths and Kingdoms, then when the Power and Authority of thoſe that ſit at <hi>Stern</hi> is impro<g ref="char:EOLhyphen"/>ved for the Lord. As God told <hi>Solomon,</hi> 2 Chron. 7. 17, 18. <hi>If thou wilt walk before me as David thy Father, and do according to all that I commanded thee, and obſerve my Statutes and Judgements:</hi> What then? <hi>Then will I eſtabliſh the Throne of thy Kingdom,</hi> &amp;c. <hi>But</hi> (he adds) <hi>If you turn away, then will I pluck you up by the root out of my Land,</hi> &amp;c.</p>
+            <p>Yea, he makes ſuch a promiſe to <hi>Jeroboam,</hi> 1 King. 11. 38. <hi>If thou wilt walk in my ways, and do that which is right in my ſight, and keep my Statutes,</hi> &amp;c. <hi>Then I will be with thee, and build thee a ſure Houſe.</hi>
+            </p>
+            <p>I need not tell you in what a <hi>tottering condition</hi> the Na<g ref="char:EOLhyphen"/>tion ſtands, how it is ſhaken by diviſions, and what a diſ<g ref="char:EOLhyphen"/>contented ſpirit is working every where: now if any thing in the world do eſtabliſh us, I do not ſay, take it from me, but take it from the God of Truth, it muſt be a holy ſub<g ref="char:EOLhyphen"/>jection to the Lord, and an hearty ſerving his Will, his Glory, and his Providence, with what Talents he entruſts us with.</p>
+            <p n="2">2. This will be their <hi>Proſperity.</hi> It was the counſel
+<pb n="41" facs="tcp:64311:25"/> that <hi>David</hi> gave <hi>Solomon</hi> at his death, and therefore ſure had weight in it, 1 <hi>Kings</hi> 2. 3. <hi>Keep the charge of the Lord thy God, and walk in his ways,</hi> &amp;c. And what then? <hi>That thou mayſt proſper in all that thou doſt, and whitherſoever thou turneſt thy ſelf.</hi> What can be more plain?</p>
+            <p>So that now <hi>(Honoured</hi> and <hi>Beloved)</hi> ye ſee what is the way to have Counſel, and direction come in upon you; and ſucceſſe and proſperity to follow you in your <hi>Affairs;</hi> and what will be found to be <hi>wiſdom,</hi> when all wicked and <hi>Machiavilian</hi> Policy, which hath too much acted the Counſels of men, and the power of the world ſhall be diſcovered to be but meer folly in the end.</p>
+            <p>Now is it not an unſeemly thing to ſee a <hi>Counſel</hi> with<g ref="char:EOLhyphen"/>out wiſdom, and a <hi>Christian Counſel</hi> without Chriſtian wiſdom?</p>
+            <p>Thus I have done, yet only give me leave to add theſe two words by way of <hi>enforcement</hi> upon the whole.</p>
+            <p n="1">1. Conſider that your day is ſhort. The <hi>day</hi> of your life is ſhort; but your day of <hi>ſervice</hi> may be ſhorter. And therefore, <hi>What ever your hand findeth to do, do it with your might,</hi> Eccleſ. 9. 10. Which is the Counſel of <hi>Solomon,</hi> the wiſeſt Prince, and States-man that ever ſate upon Throne: And as he Counſelled, ſo he practized. For with what vigour and induſtry did he manage that great work which was in his hand, of building the houſe of God. So that he finiſht it in ſeven years, and an half, as you may eaſily compute it if you read the 1 <hi>Kings</hi> 6. But he was thirteen yeares in building his own houſe, 1 <hi>Kings</hi> 7. 1. which is recorded not for his diſparage<g ref="char:EOLhyphen"/>ment, but his commendation, that he followed the work of Gods Houſe with greater vigour, then his own houſe: A good pattern for our imitation.</p>
+            <p>Yea we have the example of one greater then <hi>Solomon,</hi> even <hi>Chriſt</hi> himſelf, for the improvement of our day, <hi>John</hi> 10. 4. <hi>I muſt work the works of him that ſent me while it is day, the night cometh wherein no man can work.</hi>
+            </p>
+            <p>The natural day was appointed for work, ſo is the day
+<pb n="42" facs="tcp:64311:26"/> of life, the day of grace, and the day of ſervice; and when the night comes upon any of theſe dayes, then is the time of work ceaſed, with you, with me, and with all men.</p>
+            <p>And is not this <hi>day</hi> ſhort at longeſt? and much of it is already paſt; and that which remains, flees faſter away then an Eagle in the Ayr, or an Arrow from the Bow of the mighty. Therefore let me <hi>beſeech</hi> you, to be walking, and working, and living apace, for the ſhadows of the evening will ſuddenly be upon you.</p>
+            <p n="2">2. Conſider laſtly, that your account is haſtening, when <hi>You muſt give an account of our Stewardſhip, and be no lon<g ref="char:EOLhyphen"/>ger Stewards.</hi>
+            </p>
+            <p>And ſtand naked at the <hi>Bar</hi> of Chriſt deveſted of all your external Ornaments, whether, Riches, Power, Ho<g ref="char:EOLhyphen"/>nour, greatneſs, and the like, and every one give ac<g ref="char:EOLhyphen"/>count of himſelf unto the Lord.</p>
+            <p>And the <hi>Judgement</hi> will not proceed ſo much upon this or that particular action, as what hath been the main end, and <hi>Scope</hi> of your life. Whether you have been <hi>living</hi> to Chriſt, or to your ſelves.</p>
+            <p>Thoſe that now can ſummon others to ſtand at their bar, muſt ere long ſtand at the bar of <hi>Chriſt</hi> themſelves; and give up their accounts to him that is <hi>the Great and only Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate;</hi> the Supream Judg of the World; from whom there is no appeal, and againſt whom there is no reſi<g ref="char:EOLhyphen"/>ſtance: and according to the Judgment they receive there, ſo to ſtand, either <hi>Juſtified</hi> or <hi>Condemned</hi> for ever.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64311:26"/>
+         </div>
+      </body>
+   </text>
+</TEI>
